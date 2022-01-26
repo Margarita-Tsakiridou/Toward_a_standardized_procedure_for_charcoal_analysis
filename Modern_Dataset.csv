@@ -1,451 +1,451 @@
 "",".id","Label","area","number","circ","AR"
-"1","./datasets/Results_NaClO.csv","1st_15pc_A.tif (RGB)",0.005583932,23,0.614329446565217,2.80141945765217
-"2","./datasets/Results_NaClO.csv","1st_15pc_B.tif (RGB)",0.00627948,21,0.571396546380952,3.05369972261905
-"3","./datasets/Results_NaClO.csv","1st_15pc_C.tif (RGB)",0.007874389,26,0.670732481807692,2.53065163226923
-"4","./datasets/Results_NaClO.csv","1st_15pc_D.tif (RGB)",0.00560262,19,0.630392265947368,2.49215193005263
-"5","./datasets/Results_NaClO.csv","1st_15pc_E.tif (RGB)",0.00526974,36,0.767729944666667,2.36037902066667
-"6","./datasets/Results_NaClO.csv","1st_15pc_F.tif (RGB)",0.005804394,24,0.589790052083333,3.37652446041667
-"7","./datasets/Results_NaClO.csv","1st_15pc_G.tif (RGB)",0.005453116,21,0.668537895904762,2.34884580852381
-"8","./datasets/Results_NaClO.csv","1st_15pc_H.tif (RGB)",0.006270429,19,0.611908480894737,2.83262812731579
-"9","./datasets/Results_NaClO.csv","1st_15pc_I (darkest of them all-first on desktop_EDITTED.tif (RGB)",0.012706708,47,0.733194973787234,1.9774063163617
-"10","./datasets/Results_NaClO.csv","1st_15pc_J.tif (RGB)",0.010381507,25,0.60673485964,2.85596521008
-"11","./datasets/Results_NaClO.csv","1st_2pc_A.tif (RGB)",0.007712033,32,0.721593011,2.2018290603125
-"12","./datasets/Results_NaClO.csv","1st_2pc_B.tif (RGB)",0.010996751,26,0.642587969153846,2.42638756896154
-"13","./datasets/Results_NaClO.csv","1st_2pc_C.tif (RGB)",0.012253815,24,0.647908242416667,2.4233054685
-"14","./datasets/Results_NaClO.csv","1st_2pc_D.tif (RGB)",0.011362048,26,0.609779086384615,2.73924509211538
-"15","./datasets/Results_NaClO.csv","1st_2pc_E.tif (RGB)",0.01523602,32,0.69561725725,2.23508605059375
-"16","./datasets/Results_NaClO.csv","1st_2pc_F.tif (RGB)",0.00941031,21,0.605237739666667,2.39859362738095
-"17","./datasets/Results_NaClO.csv","1st_2pc_G.tif (RGB)",0.010055343,28,0.640516556035714,2.56369301417857
-"18","./datasets/Results_NaClO.csv","1st_2pc_H.tif (RGB)",0.010195794,28,0.666839124821429,2.37554218007143
-"19","./datasets/Results_NaClO.csv","1st_2pc_I.tif (RGB)",0.006253199,18,0.628117520444444,2.66385303711111
-"20","./datasets/Results_NaClO.csv","1st_2pc_J.tif (RGB)",0.010322816,22,0.605331739409091,2.6204211135
-"21","./datasets/Results_NaClO.csv","1st_Wat_A.tif (RGB)",0.00799995,35,0.770502996057143,2.01474428897143
-"22","./datasets/Results_NaClO.csv","1st_Wat_B.tif (RGB)",0.012305501,28,0.574548375392857,3.00664275717857
-"23","./datasets/Results_NaClO.csv","1st_Wat_C.tif (RGB)",0.012675173,28,0.61495048625,2.73032469660714
-"24","./datasets/Results_NaClO.csv","1st_Wat_D.tif (RGB)",0.009229272,23,0.581407740130435,2.90397505817391
-"25","./datasets/Results_NaClO.csv","1st_Wat_E.tif (RGB)",0.011737851,28,0.675790480178571,2.452469205
-"26","./datasets/Results_NaClO.csv","1st_Wat_F.tif (RGB)",0.01014148,31,0.67886327816129,2.054870214
-"27","./datasets/Results_NaClO.csv","1st_Wat_G.tif (RGB)",0.011128738,32,0.61871999528125,3.10896400403125
-"28","./datasets/Results_NaClO.csv","1st_Wat_H.tif (RGB)",0.013339767,31,0.717132239516129,2.4407263706129
-"29","./datasets/Results_NaClO.csv","1st_Wat_I.tif (RGB)",0.007743278,26,0.600911517576923,3.31895914030769
-"30","./datasets/Results_NaClO.csv","1st_Wat_J.tif (RGB)",0.010019426,28,0.645184981071429,2.28851530814286
-"31","./datasets/Results_NaClO.csv","2nd_15pc_A.tif (RGB)",0.009339646,28,0.570403205678571,2.87413591203571
-"32","./datasets/Results_NaClO.csv","2nd_15pc_B.tif (RGB)",0.00935337,36,0.623476659527778,3.00919091230556
-"33","./datasets/Results_NaClO.csv","2nd_15pc_C.tif (RGB)",0.010819509,25,0.64077902552,2.49741196004
-"34","./datasets/Results_NaClO.csv","2nd_15pc_D.tif (RGB)",0.007700355,31,0.685818723516129,2.33679672822581
-"35","./datasets/Results_NaClO.csv","2nd_15pc_E.tif (RGB)",0.010797024,26,0.622698532846154,2.43993144557692
-"36","./datasets/Results_NaClO.csv","2nd_15pc_F.tif (RGB)",0.010619781,31,0.594509157903226,3.43544884245161
-"37","./datasets/Results_NaClO.csv","2nd_15pc_G.tif (RGB)",0.00815237,47,0.714562062787234,2.12831559068085
-"38","./datasets/Results_NaClO.csv","2nd_15pc_H.tif (RGB)",0.009138166,27,0.689316056185185,2.39915345511111
-"39","./datasets/Results_NaClO.csv","2nd_15pc_I.tif (RGB)",0.00932709,31,0.718731130419355,2.02810969441936
-"40","./datasets/Results_NaClO.csv","2nd_15pc_J.tif (RGB)",0.009091448,24,0.62712016675,2.47277015641667
-"41","./datasets/Results_NaClO.csv","2nd_2pc_A.tif (RGB)",0.007244834,25,0.6817408232,2.01835083584
-"42","./datasets/Results_NaClO.csv","2nd_2pc_B.tif (RGB)",0.010212438,24,0.656203005166667,2.016432678125
-"43","./datasets/Results_NaClO.csv","2nd_2pc_C.tif (RGB)",0.010682267,42,0.741885750642857,2.04446199047619
-"44","./datasets/Results_NaClO.csv","2nd_2pc_D.tif (RGB)",0.009340233,33,0.672324709545455,1.97843951842424
-"45","./datasets/Results_NaClO.csv","2nd_2pc_E.tif (RGB)",0.007929869,29,0.683052667586207,2.31983448675862
-"46","./datasets/Results_NaClO.csv","2nd_2pc_F.tif (RGB)",0.009293218,22,0.671916437727273,2.0174884765
-"47","./datasets/Results_NaClO.csv","2nd_2pc_G.tif (RGB)",0.009810645,32,0.6771010628125,2.315141059875
-"48","./datasets/Results_NaClO.csv","2nd_2pc_H.tif (RGB)",0.008344507,28,0.671853692357143,2.33850500885714
-"49","./datasets/Results_NaClO.csv","2nd_2pc_I.tif (RGB)",0.007881688,28,0.701233896964286,1.93269766157143
-"50","./datasets/Results_NaClO.csv","2nd_2pc_J.tif (RGB)",0.008762655,34,0.725799411205882,2.10950484955882
-"51","./datasets/Results_NaClO.csv","2nd_Wat_A.tif (RGB)",0.010788556,24,0.628905818833333,2.34625743241667
-"52","./datasets/Results_NaClO.csv","2nd_Wat_B.tif (RGB)",0.013484311,26,0.566219204076923,3.25659023342308
-"53","./datasets/Results_NaClO.csv","2nd_Wat_C.tif (RGB)",0.012270458,39,0.621184522923077,3.40695973815385
-"54","./datasets/Results_NaClO.csv","2nd_Wat_D.tif (RGB)",0.011669229,29,0.604497380482759,2.83309465165517
-"55","./datasets/Results_NaClO.csv","2nd_Wat_E.tif (RGB)",0.011324086,26,0.689916810692308,2.087036162
-"56","./datasets/Results_NaClO.csv","2nd_Wat_F.tif (RGB)",0.011960941,35,0.686166572942857,2.38586593171429
-"57","./datasets/Results_NaClO.csv","2nd_Wat_G.tif (RGB)",0.010638175,32,0.5908709088125,3.359188845125
-"58","./datasets/Results_NaClO.csv","2nd_Wat_H.tif (RGB)",0.012642762,26,0.673167346807692,2.28765362669231
-"59","./datasets/Results_NaClO.csv","2nd_Wat_I.tif (RGB)",0.009896493,35,0.632649276514286,3.6883492808
-"60","./datasets/Results_NaClO.csv","2nd_Wat_J.tif (RGB)",0.011263056,27,0.614776589703704,2.76859006103704
-"61","./datasets/Results_NaClO.csv","3rd_15pc_A.tif (RGB)",0.007014444,23,0.62798217973913,2.49476233278261
-"62","./datasets/Results_NaClO.csv","3rd_15pc_B.tif (RGB)",0.00523908,21,0.702743845428571,2.44934497066667
-"63","./datasets/Results_NaClO.csv","3rd_15pc_C.tif (RGB)",0.010691027,23,0.685290799826087,2.17387655843478
-"64","./datasets/Results_NaClO.csv","3rd_15pc_D.tif (RGB)",0.007566328,23,0.665761390652174,2.31015291091304
-"65","./datasets/Results_NaClO.csv","3rd_15pc_E.tif (RGB)",0.009706108,21,0.650444784666667,2.338584271
-"66","./datasets/Results_NaClO.csv","3rd_15pc_F.tif (RGB)",0.009672237,22,0.624223480954545,2.69401192513636
-"67","./datasets/Results_NaClO.csv","3rd_15pc_G.tif (RGB)",0.006795442,19,0.614593998473684,2.44229840857895
-"68","./datasets/Results_NaClO.csv","3rd_15pc_H.tif (RGB)",0.007013859,18,0.686352445611111,2.29423101933333
-"69","./datasets/Results_NaClO.csv","3rd_15pc_I.tif (RGB)",0.007364845,23,0.752208414391304,1.83348695908696
-"70","./datasets/Results_NaClO.csv","3rd_15pc_J.tif (RGB)",0.007539461,16,0.6676646776875,2.23944844375
-"71","./datasets/Results_NaClO.csv","3rd_2pc_A.tif (RGB)",0.005190899,20,0.67249029265,3.1170383273
-"72","./datasets/Results_NaClO.csv","3rd_2pc_B.tif (RGB)",0.007252718,23,0.696343349304348,1.91273462395652
-"73","./datasets/Results_NaClO.csv","3rd_2pc_C.tif (RGB)",0.006767412,16,0.7424180483125,1.7481517199375
-"74","./datasets/Results_NaClO.csv","3rd_2pc_D.tif (RGB)",0.008149742,33,0.660601381454545,2.39085291148485
-"75","./datasets/Results_NaClO.csv","3rd_2pc_E.tif (RGB)",0.006539651,27,0.695770968777778,2.27009245544444
-"76","./datasets/Results_NaClO.csv","3rd_2pc_F.tif (RGB)",0.006683606,23,0.722810374217391,1.85437422943478
-"77","./datasets/Results_NaClO.csv","3rd_2pc_G.tif (RGB)",0.007066712,21,0.715759743619048,2.05630328304762
-"78","./datasets/Results_NaClO.csv","3rd_2pc_H.tif (RGB)",0.004593173,18,0.725624001166667,2.01695336522222
-"79","./datasets/Results_NaClO.csv","3rd_2pc_I.tif (RGB)",0.005637953,16,0.65531783025,2.122611738875
-"80","./datasets/Results_NaClO.csv","3rd_2pc_J.tif (RGB)",0.005387999,21,0.771179892571429,1.83165714090476
-"81","./datasets/Results_NaClO.csv","3rd_Wat_A.tif (RGB)",0.00851533,20,0.6326505647,2.3775588551
-"82","./datasets/Results_NaClO.csv","3rd_Wat_B.tif (RGB)",0.01349307,27,0.581382960407407,2.93415944892593
-"83","./datasets/Results_NaClO.csv","3rd_Wat_C.tif (RGB)",0.012727149,36,0.6648257305,2.91544640958333
-"84","./datasets/Results_NaClO.csv","3rd_Wat_D.tif (RGB)",0.00895158,30,0.6065466955,2.92031269046667
-"85","./datasets/Results_NaClO.csv","3rd_Wat_E.tif (RGB)",0.007154897,24,0.710587328375,2.13971647329167
-"86","./datasets/Results_NaClO.csv","3rd_Wat_F.tif (RGB)",0.011628352,25,0.65455541224,2.32774396296
-"87","./datasets/Results_NaClO.csv","3rd_Wat_G.tif (RGB)",0.010816881,44,0.665035005954545,2.50821856468182
-"88","./datasets/Results_NaClO.csv","3rd_Wat_H.tif (RGB)",0.0130793,28,0.7036012115,2.12107426707143
-"89","./datasets/Results_NaClO.csv","3rd_Wat_I.tif (RGB)",0.010035191,34,0.641804490382353,3.11686070876471
-"90","./datasets/Results_NaClO.csv","3rd_Wat_J.tif (RGB)",0.008633881,21,0.596478453142857,2.82529597066667
-"91","./datasets/Results_NaClO.csv","4th_15pc_A.tif (RGB)",0.007247462,22,0.673304523363636,2.3769875265
-"92","./datasets/Results_NaClO.csv","4th_15pc_B.tif (RGB)",0.005501587,14,0.641544288357143,2.712281065
-"93","./datasets/Results_NaClO.csv","4th_15pc_C.tif (RGB)",0.008968805,32,0.6894829205625,2.43655201590625
-"94","./datasets/Results_NaClO.csv","4th_15pc_D.tif (RGB)",0.006835158,19,0.706319198263158,2.11421933005263
-"95","./datasets/Results_NaClO.csv","4th_15pc_E.tif (RGB)",0.008209604,16,0.68176784275,2.107645077375
-"96","./datasets/Results_NaClO.csv","4th_15pc_F.tif (RGB)",0.008753894,24,0.609921390958333,2.62749074945833
-"97","./datasets/Results_NaClO.csv","4th_15pc_G.tif (RGB)",0.005727598,25,0.71450137404,1.95789492984
-"98","./datasets/Results_NaClO.csv","4th_15pc_H.tif (RGB)",0.005022122,12,0.676340731,2.12264743958333
-"99","./datasets/Results_NaClO.csv","4th_15pc_I.tif (RGB)",0.004666757,22,0.705070783818182,1.97981649722727
-"100","./datasets/Results_NaClO.csv","4th_15pc_J.tif (RGB)",0.007360466,18,0.654377534166667,2.32696277494444
-"101","./datasets/Results_NaClO.csv","4th_2pc_A.tif (RGB)",0.004617993,20,0.71942502165,2.19394303125
-"102","./datasets/Results_NaClO.csv","4th_2pc_B.tif (RGB)",0.006334666,27,0.740441934222222,1.74827710303704
-"103","./datasets/Results_NaClO.csv","4th_2pc_C.tif (RGB)",0.005880898,14,0.749221773928571,1.82658220885714
-"104","./datasets/Results_NaClO.csv","4th_2pc_D.tif (RGB)",0.006974149,21,0.65678181647619,2.37175008742857
-"105","./datasets/Results_NaClO.csv","4th_2pc_E.tif (RGB)",0.005786289,17,0.706976464294118,2.07297933811765
-"106","./datasets/Results_NaClO.csv","4th_2pc_F.tif (RGB)",0.005209879,17,0.642957844705882,2.71902922358824
-"107","./datasets/Results_NaClO.csv","4th_2pc_G.tif (RGB)",0.006457893,17,0.640852574352941,2.27533827176471
-"108","./datasets/Results_NaClO.csv","4th_2pc_H.tif (RGB)",0.004893058,17,0.666514422058823,2.54272113017647
-"109","./datasets/Results_NaClO.csv","4th_2pc_I.tif (RGB)",0.004547329,16,0.6588434151875,2.166021605125
-"110","./datasets/Results_NaClO.csv","4th_2pc_J.tif (RGB)",0.005644962,18,0.685064561222222,2.16121549711111
-"111","./datasets/Results_NaClO.csv","4th_Wat_A.tif (RGB)",0.008025936,24,0.699347145458333,2.07264517329167
-"112","./datasets/Results_NaClO.csv","4th_Wat_B.tif (RGB)",0.01542436,27,0.587402440407407,2.65830199940741
-"113","./datasets/Results_NaClO.csv","4th_Wat_C.tif (RGB)",0.011217503,31,0.611106664806452,2.63428987729032
-"114","./datasets/Results_NaClO.csv","4th_Wat_D.tif (RGB)",0.015178206,32,0.5943548388125,2.76609249728125
-"115","./datasets/Results_NaClO.csv","4th_Wat_E.tif (RGB)",0.009548428,26,0.698849039769231,2.11282272073077
-"116","./datasets/Results_NaClO.csv","4th_Wat_F.tif (RGB)",0.012714592,27,0.66826448737037,2.23732539992593
-"117","./datasets/Results_NaClO.csv","4th_Wat_G.tif (RGB)",0.010512325,31,0.617721026774194,3.25777822145161
-"118","./datasets/Results_NaClO.csv","4th_Wat_H.tif (RGB)",0.013274651,30,0.704343241133333,2.22775667236667
-"119","./datasets/Results_NaClO.csv","4th_Wat_I.tif (RGB)",0.008134267,34,0.674522398117647,3.28932280226471
-"120","./datasets/Results_NaClO.csv","4th_Wat_J.tif (RGB)",0.011429206,26,0.624645884230769,2.56260552742308
-"121","./datasets/Results_NaClO.csv","5th_15pc_A.tif (RGB)",0.005460416,18,0.642284955777778,2.78171033361111
-"122","./datasets/Results_NaClO.csv","5th_15pc_B.tif (RGB)",0.003852366,12,0.647278489,2.3854600605
-"123","./datasets/Results_NaClO.csv","5th_15pc_C.tif (RGB)",0.007175921,23,0.748157698956522,1.87382700034783
-"124","./datasets/Results_NaClO.csv","5th_15pc_D.tif (RGB)",0.005939591,14,0.665684353714286,2.17842575128571
-"125","./datasets/Results_NaClO.csv","5th_15pc_E.tif (RGB)",0.005635907,20,0.67513661085,2.34251690105
-"126","./datasets/Results_NaClO.csv","5th_15pc_F.tif (RGB)",0.005453117,14,0.589633846714286,2.76409412485714
-"127","./datasets/Results_NaClO.csv","5th_15pc_G.tif (RGB)",0.003570587,22,0.812226066681818,1.66872955590909
-"128","./datasets/Results_NaClO.csv","5th_15pc_H.tif (RGB)",0.005183598,18,0.731248546444444,2.04096593066667
-"129","./datasets/Results_NaClO.csv","5th_15pc_I.tif (RGB)",0.003408525,10,0.6871428126,2.0612626958
-"130","./datasets/Results_NaClO.csv","5th_15pc_J.tif (RGB)",0.005725259,20,0.60201947975,2.6120108914
-"131","./datasets/Results_NaClO.csv","5th_2pc_A.tif (RGB)",0.004075164,31,0.757229625064516,2.09989630193548
-"132","./datasets/Results_NaClO.csv","5th_2pc_B.tif (RGB)",0.007797003,69,0.710425730898551,2.1507771754058
-"133","./datasets/Results_NaClO.csv","5th_2pc_C.tif",0.004831156,15,0.7238835644,2.11054953353333
-"134","./datasets/Results_NaClO.csv","5th_2pc_D.tif (RGB)",0.005355296,16,0.6757756164375,2.2390453064375
-"135","./datasets/Results_NaClO.csv","5th_2pc_E.tif (RGB)",0.005357048,21,0.752971898238095,1.99165356680952
-"136","./datasets/Results_NaClO.csv","5th_2pc_F.tif (RGB)",0.003968292,13,0.680035858307692,1.901829392
-"137","./datasets/Results_NaClO.csv","5th_2pc_G.tif (RGB)",0.004942406,19,0.728857358210526,2.13196164936842
-"138","./datasets/Results_NaClO.csv","5th_2pc_H.tif (RGB)",0.004514333,18,0.680652213222222,2.61352246605556
-"139","./datasets/Results_NaClO.csv","5th_2pc_I.tif (RGB)",0.004460313,13,0.736538475,2.06005603115385
-"140","./datasets/Results_NaClO.csv","5th_2pc_J.tif (RGB)",0.005220099,18,0.645853763111111,2.40866032422222
-"141","./datasets/Results_NaClO.csv","5th_Wat_A.tif (RGB)",0.009763926,23,0.65066778373913,2.21199361069565
-"142","./datasets/Results_NaClO.csv","5th_Wat_B.tif (RGB)",0.011032087,24,0.583454186833333,2.7179973695
-"143","./datasets/Results_NaClO.csv","5th_Wat_C.tif (RGB)",0.012156577,30,0.612141159633333,2.95287211946667
-"144","./datasets/Results_NaClO.csv","5th_Wat_D.tif (RGB)",0.011898743,29,0.588986658448276,2.82177229689655
-"145","./datasets/Results_NaClO.csv","5th_Wat_E.tif (RGB)",0.008854051,26,0.686817167230769,2.24542841569231
-"146","./datasets/Results_NaClO.csv","5th_Wat_F.tif (RGB)",0.012372368,36,0.669530671277778,2.30177687655556
-"147","./datasets/Results_NaClO.csv","5th_Wat_G.tif (RGB)",0.010666793,33,0.613341166484848,3.04758746239394
-"148","./datasets/Results_NaClO.csv","5th_Wat_H.tif (RGB)",0.012981771,36,0.74181556325,1.92239166708333
-"149","./datasets/Results_NaClO.csv","5th_Wat_I.tif (RGB)",0.010333329,36,0.649795998305556,3.00554808755556
-"150","./datasets/Results_NaClO.csv","5th_Wat_J.tif (RGB)",0.012081537,29,0.615668529931034,2.77260196768965
-"151","./datasets/Results_H2O2_Round b.csv","1st_33pc_A.tif",0.00609143,24,0.641156753458333,2.84937238466667
-"152","./datasets/Results_H2O2_Round b.csv","1st_33pc_B.tif",0.0082864,26,0.630877163153846,2.55072823865385
-"153","./datasets/Results_H2O2_Round b.csv","1st_33pc_C.tif",0.006431317,21,0.681868468047619,2.38917240347619
-"154","./datasets/Results_H2O2_Round b.csv","1st_33pc_D.tif",0.006042081,20,0.6392212693,2.83237133205
-"155","./datasets/Results_H2O2_Round b.csv","1st_33pc_E.tif",0.0038366,17,0.649154880176471,2.80050306523529
-"156","./datasets/Results_H2O2_Round b.csv","1st_33pc_F.tif",0.00705299,19,0.641422464157895,2.40765034026316
-"157","./datasets/Results_H2O2_Round b.csv","1st_33pc_G.tif",0.004126264,22,0.600050591,2.89878242859091
-"158","./datasets/Results_H2O2_Round b.csv","1st_33pc_H.tif",0.005082566,15,0.621060628466667,2.44300268073333
-"159","./datasets/Results_H2O2_Round b.csv","1st_33pc_I.tif",0.006153918,20,0.56016630295,3.1603541156
-"160","./datasets/Results_H2O2_Round b.csv","1st_33pc_J.tif",0.006120046,17,0.618056770705882,3.26076934611765
-"161","./datasets/Results_H2O2_Round b.csv","1st_8pc_A.tif",0.005453408,21,0.612279424095238,2.87037913580952
-"162","./datasets/Results_H2O2_Round b.csv","1st_8pc_B.tif",0.005742487,22,0.632463866681818,2.77191223227273
-"163","./datasets/Results_H2O2_Round b.csv","1st_8pc_C.tif",0.005881479,26,0.594162239192308,3.41955761565385
-"164","./datasets/Results_H2O2_Round b.csv","1st_8pc_D.tif",0.008327864,23,0.621906327869565,2.91206717782609
-"165","./datasets/Results_H2O2_Round b.csv","1st_8pc_E.tif",0.010484,31,0.641768741419355,3.1499575336129
-"166","./datasets/Results_H2O2_Round b.csv","1st_8pc_F.tif",0.006586664,18,0.608399894888889,2.76746137133333
-"167","./datasets/Results_H2O2_Round b.csv","1st_8pc_G.tif",0.007370102,21,0.655060092571429,2.36454796290476
-"168","./datasets/Results_H2O2_Round b.csv","1st_8pc_H.tif",0.01031055,23,0.575213592173913,3.40451914726087
-"169","./datasets/Results_H2O2_Round b.csv","1st_8pc_I.tif",0.008198509,22,0.500505257045455,3.82363106240909
-"170","./datasets/Results_H2O2_Round b.csv","1st_8pc_J.tif",0.007168624,20,0.6394707303,2.94484088
-"171","./datasets/Results_H2O2_Round b.csv","2nd_33pc_A.tif",0.009975922,24,0.584929656375,3.17326410033333
-"172","./datasets/Results_H2O2_Round b.csv","2nd_33pc_B.tif",0.009481267,29,0.593201390448276,2.90213784751724
-"173","./datasets/Results_H2O2_Round b.csv","2nd_33pc_C.tif",0.008234132,27,0.635856899222222,2.60391815185185
-"174","./datasets/Results_H2O2_Round b.csv","2nd_33pc_D.tif",0.009693261,29,0.639420465551724,2.71117941286207
-"175","./datasets/Results_H2O2_Round b.csv","2nd_33pc_E.tif",0.006167935,21,0.595083147428571,3.05997668204762
-"176","./datasets/Results_H2O2_Round b.csv","2nd_33pc_F problem.tif",0.010673507,24,0.617137518583333,2.65478706870833
-"177","./datasets/Results_H2O2_Round b.csv","2nd_33pc_G.tif",0.008651693,22,0.628967142409091,2.77371240804545
-"178","./datasets/Results_H2O2_Round b.csv","2nd_33pc_H.tif",0.00765042,17,0.579255386294118,2.91198964323529
-"179","./datasets/Results_H2O2_Round b.csv","2nd_33pc_I.tif",0.007577129,23,0.602218038869565,3.31429774391304
-"180","./datasets/Results_H2O2_Round b.csv","2nd_33pc_J.tif",0.007499166,20,0.54215392975,3.62858194725
-"181","./datasets/Results_H2O2_Round b.csv","2nd_8pc_A.tif",0.007897746,20,0.5221625245,3.7442718297
-"182","./datasets/Results_H2O2_Round b.csv","2nd_8pc_B.tif",0.008999172,27,0.622341653925926,2.72035201555556
-"183","./datasets/Results_H2O2_Round b.csv","2nd_8pc_C.tif",0.009403304,24,0.616532661083333,3.05529423983333
-"184","./datasets/Results_H2O2_Round b.csv","2nd_8pc_D.tif",0.010576272,25,0.62406842468,2.58197979452
-"185","./datasets/Results_H2O2_Round b.csv","2nd_8pc_E.tif",0.011258679,24,0.611479549666667,2.89838493883333
-"186","./datasets/Results_H2O2_Round b.csv","2nd_8pc_F.tif",0.009074512,22,0.605449552136364,2.93583155809091
-"187","./datasets/Results_H2O2_Round b.csv","2nd_8pc_G.tif",0.010239304,25,0.6060105794,2.40523950992
-"188","./datasets/Results_H2O2_Round b.csv","2nd_8pc_H.tif",0.010215064,21,0.579440760380952,3.34810857214286
-"189","./datasets/Results_H2O2_Round b.csv","2nd_8pc_I.tif",0.009654425,22,0.577624446090909,3.03569035
-"190","./datasets/Results_H2O2_Round b.csv","2nd_8pc_J problem.tif",0.007034593,22,0.683633468727273,2.25151893322727
-"191","./datasets/Results_H2O2_Round b.csv","3rd_33pc_A (missing k-l).tif",0.010783592,24,0.575969147416667,3.054726316875
-"192","./datasets/Results_H2O2_Round b.csv","3rd_33pc_B.tif",0.009781446,27,0.584553032259259,3.19481424977778
-"193","./datasets/Results_H2O2_Round b.csv","3rd_33pc_C (whirlpool uncertainty).tif",0.008325526,25,0.5943204194,2.90245098192
-"194","./datasets/Results_H2O2_Round b.csv","3rd_33pc_D (I traveller uncertainty).tif",0.009878386,30,0.676454685,2.5231798442
-"195","./datasets/Results_H2O2_Round b.csv","3rd_33pc_E.tif",0.00834743,21,0.52759073152381,3.50931296457143
-"196","./datasets/Results_H2O2_Round b.csv","3rd_33pc_F.tif",0.011375186,21,0.610511521666667,2.71767346533333
-"197","./datasets/Results_H2O2_Round b.csv","3rd_33pc_G.tif",0.010239306,31,0.694061874870968,2.62281682993548
-"198","./datasets/Results_H2O2_Round b.csv","3rd_33pc_H (lost it).tif",0.009451775,19,0.623663148052632,2.67517312294737
-"199","./datasets/Results_H2O2_Round b.csv","3rd_33pc_I.tif",0.008895514,24,0.586284913833333,3.59622579329167
-"200","./datasets/Results_H2O2_Round b.csv","3rd_33pc_J.tif",0.008819888,24,0.628187176916667,3.06512648958333
-"201","./datasets/Results_H2O2_Round b.csv","3rd_8pc_A.tif",0.009455864,25,0.55511411436,3.04862968324
-"202","./datasets/Results_H2O2_Round b.csv","3rd_8pc_B.tif",0.009323584,26,0.643423595653846,2.79657511796154
-"203","./datasets/Results_H2O2_Round b.csv","3rd_8pc_C.tif",0.010195501,29,0.627867800206897,3.42395985031034
-"204","./datasets/Results_H2O2_Round b.csv","3rd_8pc_D.tif",0.011142753,28,0.639590987928571,2.57841388935714
-"205","./datasets/Results_H2O2_Round b.csv","3rd_8pc_E.tif",0.011956265,28,0.6102838565,3.18102049439286
-"206","./datasets/Results_H2O2_Round b.csv","3rd_8pc_F.tif",0.009183722,21,0.590812821714286,2.61526833447619
-"207","./datasets/Results_H2O2_Round b.csv","3rd_8pc_G.tif",0.009064877,26,0.609656063038462,2.46675317057692
-"208","./datasets/Results_H2O2_Round b.csv","3rd_8pc_H.tif",0.011376062,27,0.571055787296296,3.66338517781481
-"209","./datasets/Results_H2O2_Round b.csv","3rd_8pc_I.tif",0.010071986,22,0.565796821409091,3.21714891190909
-"210","./datasets/Results_H2O2_Round b.csv","3rd_8pc_J.tif",0.009412648,23,0.625606128217391,3.23216675926087
-"211","./datasets/Results_H2O2_Round b.csv","4th_33pc_A.tif",0.009624058,24,0.600401012416667,3.16574160095833
-"212","./datasets/Results_H2O2_Round b.csv","4th_33pc_B.tif",0.009866419,25,0.5721844822,3.02043840508
-"213","./datasets/Results_H2O2_Round b.csv","4th_33pc_C.tif",0.008511239,29,0.566358819517241,3.24156148606897
-"214","./datasets/Results_H2O2_Round b.csv","4th_33pc_D.tif",0.009406807,23,0.594370445826087,2.872142065
-"215","./datasets/Results_H2O2_Round b.csv","4th_33pc_E (moving).tif",0.007158106,29,0.608193579034483,2.95015901506897
-"216","./datasets/Results_H2O2_Round b.csv","4th_33pc_F.tif",0.009987889,19,0.590957510052632,2.85974672457895
-"217","./datasets/Results_H2O2_Round b.csv","4th_33pc_G.tif",0.009345489,25,0.65166876536,2.65400335056
-"218","./datasets/Results_H2O2_Round b.csv","4th_33pc_H.tif",0.009854448,21,0.590809183571429,3.07764399190476
-"219","./datasets/Results_H2O2_Round b.csv","4th_33pc_I.tif",0.010151117,27,0.554303211814815,3.847408106
-"220","./datasets/Results_H2O2_Round b.csv","4th_33pc_J.tif",0.009733849,23,0.584372759521739,3.19161295669565
-"221","./datasets/Results_H2O2_Round b.csv","4th_8pc_A.tif",0.008311513,31,0.546683522645161,3.42321702887097
-"222","./datasets/Results_H2O2_Round b.csv","4th_8pc_B.tif",0.010147613,25,0.62355521144,2.44053252588
-"223","./datasets/Results_H2O2_Round b.csv","4th_8pc_C.tif",0.009343151,24,0.564391341375,3.68525201091667
-"224","./datasets/Results_H2O2_Round b.csv","4th_8pc_D.tif",0.01046064,28,0.620011479678571,2.72428039921429
-"225","./datasets/Results_H2O2_Round b.csv","4th_8pc_E.tif",0.011909256,23,0.587257875217391,2.55081935547826
-"226","./datasets/Results_H2O2_Round b.csv","4th_8pc_F.tif",0.008554166,20,0.55600140075,2.940183777
-"227","./datasets/Results_H2O2_Round b.csv","4th_8pc_G.tif",0.008876826,24,0.604009418541667,2.605566515
-"228","./datasets/Results_H2O2_Round b.csv","4th_8pc_H.tif",0.011009018,26,0.600047348230769,3.39419459869231
-"229","./datasets/Results_H2O2_Round b.csv","4th_8pc_I.tif",0.010060307,23,0.56470905973913,3.36562267365217
-"230","./datasets/Results_H2O2_Round b.csv","4th_8pc_J.tif",0.009452653,21,0.610698473380952,2.37774940814286
-"231","./datasets/Results_H2O2_Round b.csv","5th_33pc_A.tif",0.010631168,27,0.559215195740741,3.29120784155556
-"232","./datasets/Results_H2O2_Round b.csv","5th_33pc_B.tif",0.009569747,32,0.6397394893125,2.8294998466875
-"233","./datasets/Results_H2O2_Round b.csv","5th_33pc_C.tif",0.008922086,29,0.596089773793103,3.05873588848276
-"234","./datasets/Results_H2O2_Round b.csv","5th_33pc_D.tif",0.010420343,22,0.586006311227273,2.54883065318182
-"235","./datasets/Results_H2O2_Round b.csv","5th_33pc_E.tif",0.009189269,29,0.568287764,3.09750925644828
-"236","./datasets/Results_H2O2_Round b.csv","5th_33pc_F.tif",0.010142359,22,0.616108454363636,2.57347080381818
-"237","./datasets/Results_H2O2_Round b.csv","5th_33pc_G.tif",0.009180799,26,0.638409537923077,2.55689350842308
-"238","./datasets/Results_H2O2_Round b.csv","5th_33pc_H.tif",0.010403408,20,0.59930785445,2.72971180415
-"239","./datasets/Results_H2O2_Round b.csv","5th_33pc_I.tif",0.007931912,26,0.607446475153846,3.7447622155
-"240","./datasets/Results_H2O2_Round b.csv","5th_33pc_J.tif",0.009751369,20,0.56573724085,2.99292887025
-"241","./datasets/Results_H2O2_Round b.csv","5th_8pc_A you forgot a bubble.tif",0.009058742,29,0.604794462689655,3.1836375167931
-"242","./datasets/Results_H2O2_Round b.csv","5th_8pc_B.tif",0.009385784,28,0.658750495607143,2.43356197407143
-"243","./datasets/Results_H2O2_Round b.csv","5th_8pc_C.tif",0.009337311,30,0.603981542166667,3.3339788456
-"244","./datasets/Results_H2O2_Round b.csv","5th_8pc_D.tif",0.011229771,27,0.611018280296296,2.84272408014815
-"245","./datasets/Results_H2O2_Round b.csv","5th_8pc_E.tif",0.010299749,28,0.645467953464286,2.66405352482143
-"246","./datasets/Results_H2O2_Round b.csv","5th_8pc_F.tif",0.010020888,24,0.607449401833333,2.73635703570833
-"247","./datasets/Results_H2O2_Round b.csv","5th_8pc_G.tif",0.009760716,26,0.621215842076923,2.67589201753846
-"248","./datasets/Results_H2O2_Round b.csv","5th_8pc_H.tif",0.010279305,26,0.579224881807692,3.44207138492308
-"249","./datasets/Results_H2O2_Round b.csv","5th_8pc_I.tif",0.00887157,22,0.5875639195,3.1444127905
-"250","./datasets/Results_H2O2_Round b.csv","5th_8pc_J.tif",0.008859016,27,0.635404813814815,2.88469592185185
-"251","./datasets/Results_Hex and Wat.csv","1st_Hex_A.tif (RGB)",0.006257577,17,0.552634673176471,3.50272665358824
-"252","./datasets/Results_Hex and Wat.csv","1st_Hex_B.tif (RGB)",0.007934831,26,0.531791043576923,3.48412163326923
-"253","./datasets/Results_Hex and Wat.csv","1st_Hex_C.tif (RGB)",0.004620328,24,0.634245519625,3.190002528125
-"254","./datasets/Results_Hex and Wat.csv","1st_Hex_D.tif (RGB)",0.005267111,19,0.591437749263158,3.54036878057895
-"255","./datasets/Results_Hex and Wat.csv","1st_Hex_E.tif (RGB)",0.006296414,15,0.5322521808,3.61313246173333
-"256","./datasets/Results_Hex and Wat.csv","1st_Hex_F.tif (RGB)",0.004219997,17,0.518404636529412,3.61929632388235
-"257","./datasets/Results_Hex and Wat.csv","1st_Hex_G.tif (RGB)",0.005039644,20,0.56671618415,3.7132839849
-"258","./datasets/Results_Hex and Wat.csv","1st_Hex_H.tif (RGB)",0.005702484,19,0.583246696736842,3.37731386884211
-"259","./datasets/Results_Hex and Wat.csv","1st_Hex_I.tif (RGB)",0.004160719,28,0.656918842357143,2.88531001821429
-"260","./datasets/Results_Hex and Wat.csv","1st_Hex_J.tif (RGB)",0.00611362,19,0.524808346,4.02996625957895
-"261","./datasets/Results_Hex and Wat.csv","1st_Wat_A.tif (RGB)",0.009724504,26,0.572878076346154,2.94210295915385
-"262","./datasets/Results_Hex and Wat.csv","1st_Wat_B.tif (RGB)",0.005993611,22,0.523828312,3.93613791590909
-"263","./datasets/Results_Hex and Wat.csv","1st_Wat_C.tif (RGB)",0.005576341,18,0.589757243388889,2.98063037977778
-"264","./datasets/Results_Hex and Wat.csv","1st_Wat_D.tif (RGB)",0.007922569,26,0.532206512961538,3.63342289419231
-"265","./datasets/Results_Hex and Wat.csv","1st_Wat_E.tif (RGB)",0.009344614,24,0.605670216041667,2.64588261233333
-"266","./datasets/Results_Hex and Wat.csv","1st_Wat_F.tif (RGB)",0.00812726,24,0.559630452125,3.30917156254167
-"267","./datasets/Results_Hex and Wat.csv","1st_Wat_G.tif (RGB)",0.007946219,28,0.565590079142857,3.45915111114286
-"268","./datasets/Results_Hex and Wat.csv","1st_Wat_H.tif (RGB)",0.007157234,30,0.581589899733333,3.28017863543333
-"269","./datasets/Results_Hex and Wat.csv","1st_Wat_I.tif (RGB)",0.008242017,22,0.582457199909091,3.24468340836364
-"270","./datasets/Results_Hex and Wat.csv","1st_Wat_J.tif (RGB)",0.007982717,26,0.583098150269231,3.40924691384615
-"271","./datasets/Results_Hex and Wat.csv","2nd_Hex_A.tif (RGB)",0.008775211,23,0.569945289869565,3.140725129
-"272","./datasets/Results_Hex and Wat.csv","2nd_Hex_B.tif (RGB)",0.007237826,22,0.527242877045455,3.45185021522727
-"273","./datasets/Results_Hex and Wat.csv","2nd_Hex_C.tif (RGB)",0.009095829,19,0.550605085631579,3.58673859347368
-"274","./datasets/Results_Hex and Wat.csv","2nd_Hex_D.tif (RGB)",0.00752019,21,0.534213647714286,3.4461955892381
-"275","./datasets/Results_Hex and Wat.csv","2nd_Hex_E.tif (RGB)",0.009365344,18,0.525412307388889,3.452310128
-"276","./datasets/Results_Hex and Wat.csv","2nd_Hex_F.tif (RGB)",0.008078497,24,0.607852890458333,2.77821202975
-"277","./datasets/Results_Hex and Wat.csv","2nd_Hex_G.tif (RGB)",0.007911472,14,0.488899950785714,3.43359751814286
-"278","./datasets/Results_Hex and Wat.csv","2nd_Hex_H.tif (RGB)",0.009463163,25,0.54594571096,3.56738257952
-"279","./datasets/Results_Hex and Wat.csv","2nd_Hex_I.tif (RGB)",0.004992049,17,0.558960454941177,3.49956229211765
-"280","./datasets/Results_Hex and Wat.csv","2nd_Hex_J.tif (RGB)",0.007920522,25,0.5793561242,3.17080882324
-"281","./datasets/Results_Hex and Wat.csv","2nd_Wat_A.tif (RGB)",0.011161149,23,0.54642881173913,2.86741898004348
-"282","./datasets/Results_Hex and Wat.csv","2nd_Wat_B.tif (RGB)",0.008189458,24,0.55369563525,3.35301674491667
-"283","./datasets/Results_Hex and Wat.csv","2nd_Wat_C.tif (RGB)",0.007618888,22,0.584299582090909,3.27299541763636
-"284","./datasets/Results_Hex and Wat.csv","2nd_Wat_D.tif (RGB)",0.008769368,24,0.557582778583333,3.36641538545833
-"285","./datasets/Results_Hex and Wat.csv","2nd_Wat_E.tif (RGB)",0.008816381,22,0.571627854863636,2.79939991672727
-"286","./datasets/Results_Hex and Wat.csv","2nd_Wat_F.tif (RGB)",0.008651693,23,0.576418541347826,3.08950187626087
-"287","./datasets/Results_Hex and Wat.csv","2nd_Wat_G.tif (RGB)",0.008979612,19,0.543255162052632,2.78261581078947
-"288","./datasets/Results_Hex and Wat.csv","2nd_Wat_H.tif (RGB)",0.008564675,19,0.524896171842105,3.320210298
-"289","./datasets/Results_Hex and Wat.csv","2nd_Wat_I.tif (RGB)",0.00957792,20,0.5167490842,3.4484438874
-"290","./datasets/Results_Hex and Wat.csv","2nd_Wat_J.tif (RGB)",0.008673593,21,0.535089822619048,3.40085552057143
-"291","./datasets/Results_Hex and Wat.csv","3rd_Hex_A.tif (RGB)",0.009977378,20,0.545810354,3.25772112315
-"292","./datasets/Results_Hex and Wat.csv","3rd_Hex_B.tif (RGB)",0.008232966,22,0.5066433105,4.20927885290909
-"293","./datasets/Results_Hex and Wat.csv","3rd_Hex_C.tif (RGB)",0.008925591,18,0.543663168055556,3.62431740183333
-"294","./datasets/Results_Hex and Wat.csv","3rd_Hex_D.tif (RGB)",0.007309366,21,0.568671466857143,3.2309082347619
-"295","./datasets/Results_Hex and Wat.csv","3rd_Hex_E.tif (RGB)",0.010029645,22,0.516358956818182,3.30230941913636
-"296","./datasets/Results_Hex and Wat.csv","3rd_Hex_F.tif (RGB)",0.008356481,23,0.517734570391304,4.01850499195652
-"297","./datasets/Results_Hex and Wat.csv","3rd_Hex_G.tif (RGB)",0.008819592,16,0.5006968265625,3.833028949
-"298","./datasets/Results_Hex and Wat.csv","3rd_Hex_H.tif (RGB)",0.009192187,25,0.59594890624,2.8956323888
-"299","./datasets/Results_Hex and Wat.csv","3rd_Hex_I.tif (RGB)",0.006689739,24,0.556706902958333,3.05401729904167
-"300","./datasets/Results_Hex and Wat.csv","3rd_Hex_J.tif (RGB)",0.008982531,20,0.4889026025,3.69829750115
-"301","./datasets/Results_Hex and Wat.csv","3rd_Wat_A.tif (RGB)",0.010484584,22,0.532528621727273,3.17707589313636
-"302","./datasets/Results_Hex and Wat.csv","3rd_Wat_B.tif (RGB)",0.007503256,19,0.499977062842105,3.87734892021053
-"303","./datasets/Results_Hex and Wat.csv","3rd_Wat_C.tif (RGB)",0.007001015,20,0.5654036022,3.3246446127
-"304","./datasets/Results_Hex and Wat.csv","3rd_Wat_D.tif (RGB)",0.008613442,23,0.534778574956522,3.34910595904348
-"305","./datasets/Results_Hex and Wat.csv","3rd_Wat_E.tif (RGB)",0.01002877,23,0.554949642434783,3.01734036443478
-"306","./datasets/Results_Hex and Wat.csv","3rd_Wat_F.tif (RGB)",0.009578213,17,0.483019924352941,3.69281464558824
-"307","./datasets/Results_Hex and Wat.csv","3rd_Wat_G.tif (RGB)",0.009660851,21,0.556605968904762,3.14989643747619
-"308","./datasets/Results_Hex and Wat.csv","3rd_Wat_H.tif (RGB)",0.009736183,22,0.530391941227273,2.97668092081818
-"309","./datasets/Results_Hex and Wat.csv","3rd_Wat_I.tif (RGB)",0.010272006,19,0.469377838789474,3.750204255
-"310","./datasets/Results_Hex and Wat.csv","3rd_Wat_J.tif (RGB)",0.008669799,22,0.536922748818182,3.0313267565
-"311","./datasets/Results_Hex and Wat.csv","4th_Hex_A.tif (RGB)",0.009515433,23,0.545156168608696,3.20051170430435
-"312","./datasets/Results_Hex and Wat.csv","4th_Hex_B.tif (RGB)",0.007595526,23,0.503321026956522,4.03200960656522
-"313","./datasets/Results_Hex and Wat.csv","4th_Hex_C.tif (RGB)",0.008944862,21,0.560368538190476,3.84969625157143
-"314","./datasets/Results_Hex and Wat.csv","4th_Hex_D.tif (RGB)",0.007196655,18,0.500229758888889,3.48937254261111
-"315","./datasets/Results_Hex and Wat.csv","4th_Hex_E.tif (RGB)",0.010109655,20,0.56298291945,2.9955394306
-"316","./datasets/Results_Hex and Wat.csv","4th_Hex_F.tif (RGB)",0.008958002,18,0.494389263777778,4.11632203588889
-"317","./datasets/Results_Hex and Wat.csv","4th_Hex_G.tif (RGB)",0.008866313,20,0.52089036625,3.92834117065
-"318","./datasets/Results_Hex and Wat.csv","4th_Hex_H.tif (RGB)",0.008954498,24,0.599882143958333,3.025110616875
-"319","./datasets/Results_Hex and Wat.csv","4th_Hex_I.tif (RGB)",0.006354814,25,0.58948509668,3.23294707724
-"320","./datasets/Results_Hex and Wat.csv","4th_Hex_J.tif (RGB)",0.008621618,14,0.441936541642857,4.49310840478571
-"321","./datasets/Results_Hex and Wat.csv","4th_Wat_A.tif (RGB)",0.010434944,25,0.5659067844,2.99127666208
-"322","./datasets/Results_Hex and Wat.csv","4th_Wat_B.tif (RGB)",0.008680895,29,0.625336576034483,2.77573316548276
-"323","./datasets/Results_Hex and Wat.csv","4th_Wat_C.tif (RGB)",0.007098249,24,0.553536268625,3.66397250608333
-"324","./datasets/Results_Hex and Wat.csv","4th_Wat_D.tif (RGB)",0.008664539,23,0.569550058130435,3.05562989243478
-"325","./datasets/Results_Hex and Wat.csv","4th_Wat_E.tif (RGB)",0.00906896,21,0.553894008238095,3.05114070971429
-"326","./datasets/Results_Hex and Wat.csv","4th_Wat_F.tif (RGB)",0.00790709,20,0.47115633315,3.816481977
-"327","./datasets/Results_Hex and Wat.csv","4th_Wat_G.tif (RGB)",0.009739692,24,0.528822654208333,3.414954633625
-"328","./datasets/Results_Hex and Wat.csv","4th_Wat_H.tif (RGB)",0.007802847,21,0.553286258476191,3.14494173471429
-"329","./datasets/Results_Hex and Wat.csv","4th_Wat_I.tif (RGB)",0.009755752,22,0.542255272590909,3.38865833463636
-"330","./datasets/Results_Hex and Wat.csv","4th_Wat_J.tif (RGB)",0.009774438,21,0.519844202761905,3.73517827309524
-"331","./datasets/Results_Hex and Wat.csv","5th_Hex_A.tif (RGB)",0.008727321,20,0.5399202234,3.3965211595
-"332","./datasets/Results_Hex and Wat.csv","5th_Hex_B.tif (RGB)",0.008099521,17,0.441459482352941,4.38778452223529
-"333","./datasets/Results_Hex and Wat.csv","5th_Hex_C.tif (RGB)",0.009479516,15,0.486926183866667,3.6310602594
-"334","./datasets/Results_Hex and Wat.csv","5th_Hex_D.tif (RGB)",0.006091139,16,0.5390622839375,4.1119199339375
-"335","./datasets/Results_Hex and Wat.csv","5th_Hex_E.tif (RGB)",0.009174667,19,0.524835645578947,3.50268891768421
-"336","./datasets/Results_Hex and Wat.csv","5th_Hex_F.tif (RGB)",0.008477076,19,0.519152239789474,3.80966510878947
-"337","./datasets/Results_Hex and Wat.csv","5th_Hex_G.tif (RGB)",0.009648,15,0.461624588,3.87671602933333
-"338","./datasets/Results_Hex and Wat.csv","5th_Hex_H.tif (RGB)",0.009788743,21,0.532606039142857,3.23208836919048
-"339","./datasets/Results_Hex and Wat.csv","5th_Hex_I.tif (RGB)",0.005344201,18,0.572495898944444,3.25444382783333
-"340","./datasets/Results_Hex and Wat.csv","5th_Hex_J.tif (RGB)",0.008308884,14,0.464245017357143,4.33444572878571
-"341","./datasets/Results_Hex and Wat.csv","5th_Wat_A.tif (RGB)",0.009610041,29,0.604869052862069,3.04835071093103
-"342","./datasets/Results_Hex and Wat.csv","5th_Wat_B.tif (RGB)",0.007153731,24,0.538372736666667,3.70465314633333
-"343","./datasets/Results_Hex and Wat.csv","5th_Wat_C.tif (RGB)",0.007879059,29,0.596475037517241,3.77669624996552
-"344","./datasets/Results_Hex and Wat.csv","5th_Wat_D.tif (RGB)",0.008239972,19,0.554347792947368,2.85585051947368
-"345","./datasets/Results_Hex and Wat.csv","5th_Wat_E.tif (RGB)",0.009687714,24,0.580159696166667,2.75585610379167
-"346","./datasets/Results_Hex and Wat.csv","5th_Wat_F.tif (RGB)",0.008458973,24,0.584135387875,3.11042055483333
-"347","./datasets/Results_Hex and Wat.csv","5th_Wat_G.tif (RGB)",0.01025945,26,0.557369071653846,3.49723467684615
-"348","./datasets/Results_Hex and Wat.csv","5th_Wat_H.tif (RGB)",0.008724693,24,0.533850208625,3.44743667529167
-"349","./datasets/Results_Hex and Wat.csv","5th_Wat_I.tif (RGB)",0.009749033,15,0.474385119933333,3.76096545293333
-"350","./datasets/Results_Hex and Wat.csv","5th_Wat_J.tif (RGB)",0.009587265,25,0.5630202738,3.02575680992
-"351","./datasets/Results_HNO3andKOH.csv","1st_HNO3_A.tif (RGB)",0.006141945,25,0.67970023792,2.09983522808
-"352","./datasets/Results_HNO3andKOH.csv","1st_HNO3_B.tif (RGB)",0.00747172,24,0.645292062875,2.556042257375
-"353","./datasets/Results_HNO3andKOH.csv","1st_HNO3_C.tif (RGB)",0.009115392,25,0.5670015798,2.99535951612
-"354","./datasets/Results_HNO3andKOH.csv","1st_HNO3_D (the beautiful).tif (RGB)",0.01112903,25,0.61178043848,2.70343849544
-"355","./datasets/Results_HNO3andKOH.csv","1st_HNO3_E.tif (RGB)",0.006300797,22,0.622787242863636,2.69799543640909
-"356","./datasets/Results_HNO3andKOH.csv","1st_HNO3_F.tif (RGB)",0.010660952,26,0.657881248538462,2.56341656942308
-"357","./datasets/Results_HNO3andKOH.csv","1st_HNO3_G.tif (RGB)",0.006702297,21,0.608533649666667,2.99671531980952
-"358","./datasets/Results_HNO3andKOH.csv","1st_HNO3_H.tif (RGB)",0.010645765,28,0.588192834714286,3.229791117
-"359","./datasets/Results_HNO3andKOH.csv","1st_HNO3_I.tif (RGB)",0.00807762,25,0.59832810664,3.11097268928
-"360","./datasets/Results_HNO3andKOH.csv","1st_HNO3_J.tif (RGB)",0.007438431,25,0.6380465754,2.85052222784
-"361","./datasets/Results_HNO3andKOH.csv","1st_KOH_A.tif (RGB)",0.009420822,27,0.571923360185185,3.13334330451852
-"362","./datasets/Results_HNO3andKOH.csv","1st_KOH_B.tif (RGB)",0.007813068,30,0.6250316423,2.6470351546
-"363","./datasets/Results_HNO3andKOH.csv","1st_KOH_C.tif (RGB)",0.006740839,33,0.566176135333333,3.63706170072727
-"364","./datasets/Results_HNO3andKOH.csv","1st_KOH_D.tif (RGB)",0.008444956,28,0.624649850535714,2.6373870995
-"365","./datasets/Results_HNO3andKOH.csv","1st_KOH_E.tif (RGB)",0.007075764,23,0.621388481086957,2.81034642208696
-"366","./datasets/Results_HNO3andKOH.csv","1st_KOH_F.tif (RGB)",0.007654219,23,0.567509143608696,3.2862531156087
-"367","./datasets/Results_HNO3andKOH.csv","1st_KOH_G.tif (RGB)",0.006541111,26,0.582199596576923,2.80805382619231
-"368","./datasets/Results_HNO3andKOH.csv","1st_KOH_H.tif (RGB)",0.008638261,27,0.567012846962963,2.95390372125926
-"369","./datasets/Results_HNO3andKOH.csv","1st_KOH_I.tif (RGB)",0.006035657,22,0.587150808318182,2.95244256877273
-"370","./datasets/Results_HNO3andKOH.csv","1st_KOH_J.tif (RGB)",0.008849961,28,0.684422465857143,2.1291331475
-"371","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_A.tif (RGB)",0.008523217,25,0.5996556352,2.65420228516
-"372","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_B.tif (RGB)",0.010996753,24,0.612282832416667,2.885008674125
-"373","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_C.tif (RGB)",0.01139942,28,0.607259319928571,2.88251254907143
-"374","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_D.tif (RGB)",0.012033648,20,0.55675072315,2.6731265346
-"375","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_E.tif (RGB)",0.008746011,25,0.63563804192,2.5537501408
-"376","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_F.tif (RGB)",0.012566259,25,0.62220386772,2.62408840876
-"377","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_G.tif (RGB)",0.012236882,25,0.61789680428,2.22390642812
-"378","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_H.tif (RGB)",0.013186177,26,0.586798436192308,2.99505668361538
-"379","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_I.tif (RGB)",0.010245146,22,0.595941607772727,2.67288460659091
-"380","./datasets/Results_HNO3andKOH.csv","2nd_HNO3_J.tif (RGB)",0.010626205,27,0.611737918925926,2.632140285
-"381","./datasets/Results_HNO3andKOH.csv","2nd_KOH_A.tif (RGB)",0.010829435,29,0.555840856172414,3.09533904565517
-"382","./datasets/Results_HNO3andKOH.csv","2nd_KOH_B.tif (RGB)",0.007965492,23,0.593968441304348,3.04072668482609
-"383","./datasets/Results_HNO3andKOH.csv","2nd_KOH_C.tif (RGB)",0.008455175,40,0.622849851025,3.28274124775
-"384","./datasets/Results_HNO3andKOH.csv","2nd_KOH_D.tif (RGB)",0.009212625,27,0.608613524333333,2.79578851396296
-"385","./datasets/Results_HNO3andKOH.csv","2nd_KOH_E.tif (RGB)",0.007805181,24,0.534268700208333,3.33352644904167
-"386","./datasets/Results_HNO3andKOH.csv","2nd_KOH_F.tif (RGB)",0.00749391,25,0.61498010724,2.83803856376
-"387","./datasets/Results_HNO3andKOH.csv","2nd_KOH_G.tif (RGB)",0.008871278,28,0.649642859821429,2.10367803471429
-"388","./datasets/Results_HNO3andKOH.csv","2nd_KOH_H.tif (RGB)",0.010376542,25,0.56242214132,2.8199398224
-"389","./datasets/Results_HNO3andKOH.csv","2nd_KOH_I.tif (RGB)",0.007966661,26,0.640445093461538,2.61181942373077
-"390","./datasets/Results_HNO3andKOH.csv","2nd_KOH_J.tif (RGB)",0.011274737,29,0.621336830068966,2.63367480024138
-"391","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_A.tif (RGB)",0.008642935,26,0.556199626615385,3.00110971346154
-"392","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_B.tif (RGB)",0.011035882,28,0.596838562714286,2.94475583428571
-"393","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_C.tif (RGB)",0.011263641,27,0.588475664481481,3.01613557181481
-"394","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_D.tif (RGB)",0.012532968,23,0.569311514782609,2.74281932191304
-"395","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_E.tif (RGB)",0.009971247,22,0.589187699409091,2.76688910513636
-"396","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_F.tif (RGB)",0.013163982,25,0.60024369264,2.81914066956
-"397","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_G.tif (RGB)",0.012185199,27,0.615312069962963,2.45942831662963
-"398","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_H.tif (RGB)",0.013712361,24,0.561095444458333,3.054210658125
-"399","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_I.tif (RGB)",0.010839947,24,0.549728418583333,3.000467211625
-"400","./datasets/Results_HNO3andKOH.csv","3rd_HNO3_J.tif (RGB)",0.01075264,25,0.58041044684,2.877487563
-"401","./datasets/Results_HNO3andKOH.csv","3rd_KOH_A.tif (RGB)",0.011684997,28,0.570412438464286,3.11715207696429
-"402","./datasets/Results_HNO3andKOH.csv","3rd_KOH_B.tif (RGB)",0.009435715,28,0.656886438821429,2.41665988082143
-"403","./datasets/Results_HNO3andKOH.csv","3rd_KOH_C.tif",0.008428021,31,0.561032058903226,3.66384152593548
-"404","./datasets/Results_HNO3andKOH.csv","3rd_KOH_D.tif (RGB)",0.009256427,26,0.602746310769231,2.74967118876923
-"405","./datasets/Results_HNO3andKOH.csv","3rd_KOH_E.tif (RGB)",0.009090278,24,0.586853286041667,2.82117979983333
-"406","./datasets/Results_HNO3andKOH.csv","3rd_KOH_F.tif (RGB)",0.009108091,25,0.61351450444,2.62977262672
-"407","./datasets/Results_HNO3andKOH.csv","3rd_KOH_G.tif (RGB)",0.011025368,37,0.631929156891892,2.35506873386487
-"408","./datasets/Results_HNO3andKOH.csv","3rd_KOH_H.tif (RGB)",0.00974553,28,0.5508673885,3.25108973685714
-"409","./datasets/Results_HNO3andKOH.csv","3rd_KOH_I.tif (RGB)",0.009135831,25,0.60299717868,2.73539852872
-"410","./datasets/Results_HNO3andKOH.csv","3rd_KOH_J#.tif (RGB)",0.012552826,26,0.589398799384615,2.71143860992308
-"411","./datasets/Results_HNO3andKOH.csv","4th_HNO3_A.tif (RGB)",0.009382573,24,0.594883963083333,2.462604169875
-"412","./datasets/Results_HNO3andKOH.csv","4th_HNO3_B.tif (RGB)",0.011506295,23,0.588733675043478,2.67039148995652
-"413","./datasets/Results_HNO3andKOH.csv","4th_HNO3_C.tif (RGB)",0.010721396,27,0.593965279851852,2.83235539377778
-"414","./datasets/Results_HNO3andKOH.csv","4th_HNO3_D (check parts).tif (RGB)",0.01307901,26,0.575991341461538,2.83297719657692
-"415","./datasets/Results_HNO3andKOH.csv","4th_HNO3_E.tif (RGB)",0.010328948,26,0.618033680538462,2.57858803819231
-"416","./datasets/Results_HNO3andKOH.csv","4th_HNO3_F.tif (RGB)",0.013425908,25,0.61913179124,2.6590648028
-"417","./datasets/Results_HNO3andKOH.csv","4th_HNO3_G.tif (RGB)",0.012942356,30,0.648046932133333,2.35695909073333
-"418","./datasets/Results_HNO3andKOH.csv","4th_HNO3_H.tif (RGB)",0.014715387,23,0.540701960434783,2.95224792495652
-"419","./datasets/Results_HNO3andKOH.csv","4th_HNO3_I.tif (RGB)",0.011421612,23,0.564457087782609,3.00087120917391
-"420","./datasets/Results_HNO3andKOH.csv","4th_HNO3_J.tif (RGB)",0.011238238,27,0.603962127592593,2.640561803
-"421","./datasets/Results_HNO3andKOH.csv","4th_KOH_A.tif (RGB)",0.011812602,27,0.555375429037037,3.19479362396296
-"422","./datasets/Results_HNO3andKOH.csv","4th_KOH_B.tif (RGB)",0.010227914,23,0.57213586473913,2.78916152169565
-"423","./datasets/Results_HNO3andKOH.csv","4th_KOH_C.tif (RGB)",0.00841313,39,0.608203776820513,3.27210298523077
-"424","./datasets/Results_HNO3andKOH.csv","4th_KOH_D.tif (RGB)",0.010230541,26,0.628064510269231,2.47157313292308
-"425","./datasets/Results_HNO3andKOH.csv","4th_KOH_E.tif (RGB)",0.009665227,24,0.567599796041667,2.99462697620833
-"426","./datasets/Results_HNO3andKOH.csv","4th_KOH_F.tif (RGB)",0.009344028,25,0.594541615,2.8385271096
-"427","./datasets/Results_HNO3andKOH.csv","4th_KOH_G.tif (RGB)",0.011002594,29,0.645179956758621,2.45340902193103
-"428","./datasets/Results_HNO3andKOH.csv","4th_KOH_H.tif (RGB)",0.010890466,26,0.533633646192308,2.829104934
-"429","./datasets/Results_HNO3andKOH.csv","4th_KOH_I.tif (RGB)",0.009540253,25,0.6079961118,2.8679319394
-"430","./datasets/Results_HNO3andKOH.csv","4th_KOH_J.tif (RGB)",0.012720141,30,0.621389429266667,2.47626134623333
-"431","./datasets/Results_HNO3andKOH.csv","5th_HNO3_A.tif (RGB)",0.009312783,27,0.595112405037037,2.78146617725926
-"432","./datasets/Results_HNO3andKOH.csv","5th_HNO3_B.tif (RGB)",0.01248333,26,0.584984897230769,3.23266722176923
-"433","./datasets/Results_HNO3andKOH.csv","5th_HNO3_C.tif (RGB)",0.012674005,25,0.57128385188,2.85345371488
-"434","./datasets/Results_HNO3andKOH.csv","5th_HNO3_D.tif (RGB)",0.014218983,26,0.577557649,2.75465279623077
-"435","./datasets/Results_HNO3andKOH.csv","5th_HNO3_E.tif (RGB)",0.010719059,24,0.628933544666667,2.51741145329167
-"436","./datasets/Results_HNO3andKOH.csv","5th_HNO3_F.tif (RGB)",0.012660863,23,0.621694046434783,2.64691535830435
-"437","./datasets/Results_HNO3andKOH.csv","5th_HNO3_G.tif (RGB)",0.013123688,24,0.603220404375,2.28985986
-"438","./datasets/Results_HNO3andKOH.csv","5th_HNO3_H.tif (RGB)",0.014315052,25,0.56204994428,3.16431486776
-"439","./datasets/Results_HNO3andKOH.csv","5th_HNO3_I.tif (RGB)",0.01123386,23,0.575797866913043,2.83886705356522
-"440","./datasets/Results_HNO3andKOH.csv","5th_HNO3_J.tif (RGB)",0.01172763,25,0.5916857612,2.63004327212
-"441","./datasets/Results_HNO3andKOH.csv","5th_KOH_A.tif (RGB)",0.012875195,26,0.542943258538462,3.04239082423077
-"442","./datasets/Results_HNO3andKOH.csv","5th_KOH_B.tif (RGB)",0.009794292,25,0.61994486204,2.51190368756
-"443","./datasets/Results_HNO3andKOH.csv","5th_KOH_C.tif (RGB)",0.010022054,33,0.592359207666667,3.32295929257576
-"444","./datasets/Results_HNO3andKOH.csv","5th_KOH_D.tif (RGB)",0.0105132,26,0.599196473269231,2.55870750953846
-"445","./datasets/Results_HNO3andKOH.csv","5th_KOH_E.tif (RGB)",0.009823201,25,0.5975817346,2.78925391424
-"446","./datasets/Results_HNO3andKOH.csv","5th_KOH_F.tif (RGB)",0.009664061,25,0.58984597416,2.88641340776
-"447","./datasets/Results_HNO3andKOH.csv","5th_KOH_G.tif (RGB)",0.011071213,29,0.604372596068966,2.68020965503448
-"448","./datasets/Results_HNO3andKOH.csv","5th_KOH_H.tif (RGB)",0.010929302,31,0.610876042096774,3.06783390370968
-"449","./datasets/Results_HNO3andKOH.csv","5th_KOH_I.tif (RGB)",0.008884417,26,0.585996766769231,2.91303748684615
-"450","./datasets/Results_HNO3andKOH.csv","5th_KOH_J.tif (RGB)",0.013380356,28,0.621080146285714,2.52198789110714
+"1","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_A.tif (RGB)",0.005583932,23,0.614329446565217,2.80141945765217
+"2","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_B.tif (RGB)",0.00627948,21,0.571396546380952,3.05369972285714
+"3","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_C.tif (RGB)",0.007874389,26,0.670732481807692,2.53065163226923
+"4","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_D.tif (RGB)",0.00560262,19,0.630392265947368,2.49215193005263
+"5","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_E.tif (RGB)",0.00526974,36,0.767729944666667,2.36037902066667
+"6","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_F.tif (RGB)",0.005804394,24,0.589790052083333,3.37652446041667
+"7","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_G.tif (RGB)",0.005453116,21,0.668537895904762,2.34884580852381
+"8","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_H.tif (RGB)",0.006270429,19,0.611908480894737,2.83262812731579
+"9","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_I.tif (RGB)",0.012706708,47,0.733194973787234,1.9774063163617
+"10","./datasets/Image Analysis output/Results_NaClO.csv","1st_15pc_J.tif (RGB)",0.010381507,25,0.60673485964,2.85596521008
+"11","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_A.tif (RGB)",0.007712033,32,0.721593011,2.20182906028125
+"12","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_B.tif (RGB)",0.010996751,26,0.642587969153846,2.42638756896154
+"13","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_C.tif (RGB)",0.012253815,24,0.647908242416667,2.4233054685
+"14","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_D.tif (RGB)",0.011362048,26,0.609779086384615,2.73924509211538
+"15","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_E.tif (RGB)",0.01523602,32,0.69561725725,2.23508605059375
+"16","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_F.tif (RGB)",0.00941031,21,0.605237739666667,2.39859362738095
+"17","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_G.tif (RGB)",0.010055343,28,0.640516556035714,2.56369301417857
+"18","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_H.tif (RGB)",0.010195794,28,0.666839124821429,2.37554218007143
+"19","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_I.tif (RGB)",0.006253199,18,0.628117520444444,2.66385303711111
+"20","./datasets/Image Analysis output/Results_NaClO.csv","1st_2pc_J.tif (RGB)",0.010322816,22,0.605331739409091,2.6204211135
+"21","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_A.tif (RGB)",0.00799995,35,0.770502996057143,2.01474428897143
+"22","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_B.tif (RGB)",0.012305501,28,0.574548375392857,3.00664275707143
+"23","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_C.tif (RGB)",0.012675173,28,0.61495048625,2.73032469660714
+"24","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_D.tif (RGB)",0.009229272,23,0.581407740130435,2.90397505817391
+"25","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_E.tif (RGB)",0.011737851,28,0.675790480178571,2.452469205
+"26","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_F.tif (RGB)",0.01014148,31,0.67886327816129,2.054870214
+"27","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_G.tif (RGB)",0.011128738,32,0.61871999528125,3.10896400403125
+"28","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_H.tif (RGB)",0.013339767,31,0.717132239516129,2.4407263706129
+"29","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_I.tif (RGB)",0.007743278,26,0.600911517576923,3.31895914019231
+"30","./datasets/Image Analysis output/Results_NaClO.csv","1st_Wat_J.tif (RGB)",0.010019426,28,0.645184981071429,2.28851530814286
+"31","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_A.tif (RGB)",0.009339646,28,0.570403205678571,2.87413591203571
+"32","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_B.tif (RGB)",0.00935337,36,0.623476659527778,3.00919091230556
+"33","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_C.tif (RGB)",0.010819509,25,0.64077902552,2.49741196004
+"34","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_D.tif (RGB)",0.007700355,31,0.685818723516129,2.33679672822581
+"35","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_E.tif (RGB)",0.010797024,26,0.622698532846154,2.43993144557692
+"36","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_F.tif (RGB)",0.010619781,31,0.594509157903226,3.43544884264516
+"37","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_G.tif (RGB)",0.00815237,47,0.714562062787234,2.12831559068085
+"38","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_H.tif (RGB)",0.009138166,27,0.689316056185185,2.39915345511111
+"39","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_I.tif (RGB)",0.00932709,31,0.718731130419355,2.02810969441936
+"40","./datasets/Image Analysis output/Results_NaClO.csv","2nd_15pc_J.tif (RGB)",0.009091448,24,0.62712016675,2.47277015641667
+"41","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_A.tif (RGB)",0.007244834,25,0.6817408232,2.01835083584
+"42","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_B.tif (RGB)",0.010212438,24,0.656203005166667,2.016432678125
+"43","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_C.tif (RGB)",0.010682267,42,0.741885750642857,2.0444619905
+"44","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_D.tif (RGB)",0.009340233,33,0.672324709545455,1.97843951842424
+"45","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_E.tif (RGB)",0.007929869,29,0.683052667586207,2.31983448675862
+"46","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_F.tif (RGB)",0.009293218,22,0.671916437727273,2.0174884765
+"47","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_G.tif (RGB)",0.009810645,32,0.6771010628125,2.315141059875
+"48","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_H.tif (RGB)",0.008344507,28,0.671853692357143,2.33850500885714
+"49","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_I.tif (RGB)",0.007881688,28,0.701233896964286,1.93269766157143
+"50","./datasets/Image Analysis output/Results_NaClO.csv","2nd_2pc_J.tif (RGB)",0.008762655,34,0.725799411205882,2.10950484955882
+"51","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_A.tif (RGB)",0.010788556,24,0.628905818833333,2.34625743241667
+"52","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_B.tif (RGB)",0.013484311,26,0.566219204076923,3.25659023342308
+"53","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_C.tif (RGB)",0.012270458,39,0.621184522923077,3.40695973838462
+"54","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_D.tif (RGB)",0.011669229,29,0.604497380482759,2.8330946517931
+"55","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_E.tif (RGB)",0.011324086,26,0.689916810692308,2.087036162
+"56","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_F.tif (RGB)",0.011960941,35,0.686166572942857,2.38586593182857
+"57","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_G.tif (RGB)",0.010638175,32,0.5908709088125,3.35918884528125
+"58","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_H.tif (RGB)",0.012642762,26,0.673167346807692,2.28765362653846
+"59","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_I.tif (RGB)",0.009896493,35,0.632649276514286,3.68834928065714
+"60","./datasets/Image Analysis output/Results_NaClO.csv","2nd_Wat_J.tif (RGB)",0.011263056,27,0.614776589703704,2.76859006103704
+"61","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_A.tif (RGB)",0.007014444,23,0.62798217973913,2.49476233278261
+"62","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_B.tif (RGB)",0.00523908,21,0.702743845428571,2.44934497066667
+"63","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_C.tif (RGB)",0.010691027,23,0.685290799826087,2.17387655843478
+"64","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_D.tif (RGB)",0.007566328,23,0.665761390652174,2.31015291091304
+"65","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_E.tif (RGB)",0.009706108,21,0.650444784666667,2.338584271
+"66","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_F.tif (RGB)",0.009672237,22,0.624223480954545,2.69401192527273
+"67","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_G.tif (RGB)",0.006795442,19,0.614593998473684,2.44229840857895
+"68","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_H.tif (RGB)",0.007013859,18,0.686352445611111,2.29423101933333
+"69","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_I.tif (RGB)",0.007364845,23,0.752208414391304,1.83348695908696
+"70","./datasets/Image Analysis output/Results_NaClO.csv","3rd_15pc_J.tif (RGB)",0.007539461,16,0.6676646776875,2.23944844375
+"71","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_A.tif (RGB)",0.005190899,20,0.67249029265,3.1170383273
+"72","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_B.tif (RGB)",0.007252718,23,0.696343349304348,1.91273462395652
+"73","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_C.tif (RGB)",0.006767412,16,0.7424180483125,1.7481517199375
+"74","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_D.tif (RGB)",0.008149742,33,0.660601381454545,2.39085291148485
+"75","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_E.tif (RGB)",0.006539651,27,0.695770968777778,2.27009245544444
+"76","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_F.tif (RGB)",0.006683606,23,0.722810374217391,1.85437422943478
+"77","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_G.tif (RGB)",0.007066712,21,0.715759743619048,2.05630328304762
+"78","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_H.tif (RGB)",0.004593173,18,0.725624001166667,2.01695336522222
+"79","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_I.tif (RGB)",0.005637953,16,0.65531783025,2.122611738875
+"80","./datasets/Image Analysis output/Results_NaClO.csv","3rd_2pc_J.tif (RGB)",0.005387999,21,0.771179892571429,1.83165714090476
+"81","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_A.tif (RGB)",0.00851533,20,0.6326505647,2.3775588551
+"82","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_B.tif (RGB)",0.01349307,27,0.581382960407407,2.93415944892593
+"83","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_C.tif (RGB)",0.012727149,36,0.6648257305,2.91544640966667
+"84","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_D.tif (RGB)",0.00895158,30,0.6065466955,2.9203126905
+"85","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_E.tif (RGB)",0.007154897,24,0.710587328375,2.13971647329167
+"86","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_F.tif (RGB)",0.011628352,25,0.65455541224,2.32774396296
+"87","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_G.tif (RGB)",0.010816881,44,0.665035005954545,2.50821856465909
+"88","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_H.tif (RGB)",0.0130793,28,0.7036012115,2.12107426707143
+"89","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_I.tif (RGB)",0.010035191,34,0.641804490382353,3.11686070879412
+"90","./datasets/Image Analysis output/Results_NaClO.csv","3rd_Wat_J.tif (RGB)",0.008633881,21,0.596478453142857,2.82529597066667
+"91","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_A.tif (RGB)",0.007247462,22,0.673304523363636,2.3769875265
+"92","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_B.tif (RGB)",0.005501587,14,0.641544288357143,2.712281065
+"93","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_C.tif (RGB)",0.008968805,32,0.6894829205625,2.43655201590625
+"94","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_D.tif (RGB)",0.006835158,19,0.706319198263158,2.11421933005263
+"95","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_E.tif (RGB)",0.008209604,16,0.68176784275,2.107645077375
+"96","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_F.tif (RGB)",0.008753894,24,0.609921390958333,2.62749074945833
+"97","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_G.tif (RGB)",0.005727598,25,0.71450137404,1.95789492984
+"98","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_H.tif (RGB)",0.005022122,12,0.676340731,2.12264743958333
+"99","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_I.tif (RGB)",0.004666757,22,0.705070783818182,1.97981649722727
+"100","./datasets/Image Analysis output/Results_NaClO.csv","4th_15pc_J.tif (RGB)",0.007360466,18,0.654377534166667,2.32696277494444
+"101","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_A.tif (RGB)",0.004617993,20,0.71942502165,2.19394303125
+"102","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_B.tif (RGB)",0.006334666,27,0.740441934222222,1.74827710303704
+"103","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_C.tif (RGB)",0.005880898,14,0.749221773928571,1.82658220885714
+"104","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_D.tif (RGB)",0.006974149,21,0.65678181647619,2.37175008742857
+"105","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_E.tif (RGB)",0.005786289,17,0.706976464294118,2.07297933811765
+"106","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_F.tif (RGB)",0.005209879,17,0.642957844705882,2.71902922370588
+"107","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_G.tif (RGB)",0.006457893,17,0.640852574352941,2.27533827176471
+"108","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_H.tif (RGB)",0.004893058,17,0.666514422058823,2.54272113035294
+"109","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_I.tif (RGB)",0.004547329,16,0.6588434151875,2.166021605125
+"110","./datasets/Image Analysis output/Results_NaClO.csv","4th_2pc_J.tif (RGB)",0.005644962,18,0.685064561222222,2.16121549711111
+"111","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_A.tif (RGB)",0.008025936,24,0.699347145458333,2.07264517329167
+"112","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_B.tif (RGB)",0.01542436,27,0.587402440407407,2.65830199940741
+"113","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_C.tif (RGB)",0.011217503,31,0.611106664806452,2.63428987729032
+"114","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_D.tif (RGB)",0.015178206,32,0.5943548388125,2.76609249728125
+"115","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_E.tif (RGB)",0.009548428,26,0.698849039769231,2.11282272073077
+"116","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_F.tif (RGB)",0.012714592,27,0.66826448737037,2.23732539992593
+"117","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_G.tif (RGB)",0.010512325,31,0.617721026774194,3.25777822135484
+"118","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_H.tif (RGB)",0.013274651,30,0.704343241133333,2.22775667236667
+"119","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_I.tif (RGB)",0.008134267,34,0.674522398117647,3.28932280241176
+"120","./datasets/Image Analysis output/Results_NaClO.csv","4th_Wat_J.tif (RGB)",0.011429206,26,0.624645884230769,2.56260552742308
+"121","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_A.tif (RGB)",0.005460416,18,0.642284955777778,2.78171033361111
+"122","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_B.tif (RGB)",0.003852366,12,0.647278489,2.3854600605
+"123","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_C.tif (RGB)",0.007175921,23,0.748157698956522,1.87382700034783
+"124","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_D.tif (RGB)",0.005939591,14,0.665684353714286,2.17842575128571
+"125","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_E.tif (RGB)",0.005635907,20,0.67513661085,2.34251690105
+"126","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_F.tif (RGB)",0.005453117,14,0.589633846714286,2.76409412485714
+"127","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_G.tif (RGB)",0.003570587,22,0.812226066681818,1.66872955590909
+"128","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_H.tif (RGB)",0.005183598,18,0.731248546444444,2.04096593066667
+"129","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_I.tif (RGB)",0.003408525,10,0.6871428126,2.0612626958
+"130","./datasets/Image Analysis output/Results_NaClO.csv","5th_15pc_J.tif (RGB)",0.005725259,20,0.60201947975,2.6120108914
+"131","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_A.tif (RGB)",0.004075164,31,0.757229625064516,2.09989630193548
+"132","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_B.tif (RGB)",0.007797003,69,0.710425730898551,2.1507771754058
+"133","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_C.tif (RGB)",0.004831156,15,0.7238835644,2.11054953353333
+"134","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_D.tif (RGB)",0.005355296,16,0.6757756164375,2.2390453064375
+"135","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_E.tif (RGB)",0.005357048,21,0.752971898238095,1.99165356680952
+"136","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_F.tif (RGB)",0.003968292,13,0.680035858307692,1.901829392
+"137","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_G.tif (RGB)",0.004942406,19,0.728857358210526,2.13196164936842
+"138","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_H.tif (RGB)",0.004514333,18,0.680652213222222,2.61352246605556
+"139","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_I.tif (RGB)",0.004460313,13,0.736538475,2.06005603115385
+"140","./datasets/Image Analysis output/Results_NaClO.csv","5th_2pc_J.tif (RGB)",0.005220099,18,0.645853763111111,2.40866032422222
+"141","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_A.tif (RGB)",0.009763926,23,0.65066778373913,2.21199361069565
+"142","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_B.tif (RGB)",0.011032087,24,0.583454186833333,2.7179973695
+"143","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_C.tif (RGB)",0.012156577,30,0.612141159633333,2.9528721197
+"144","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_D.tif (RGB)",0.011898743,29,0.588986658448276,2.82177229689655
+"145","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_E.tif (RGB)",0.008854051,26,0.686817167230769,2.24542841569231
+"146","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_F.tif (RGB)",0.012372368,36,0.669530671277778,2.30177687655556
+"147","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_G.tif (RGB)",0.010666793,33,0.613341166484848,3.04758746254545
+"148","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_H.tif (RGB)",0.012981771,36,0.74181556325,1.92239166708333
+"149","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_I.tif (RGB)",0.010333329,36,0.649795998305556,3.00554808772222
+"150","./datasets/Image Analysis output/Results_NaClO.csv","5th_Wat_J.tif (RGB)",0.012081537,29,0.615668529931034,2.77260196768965
+"151","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_A.tif (RGB)",0.006257577,17,0.552634673176471,3.50272665358824
+"152","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_B.tif (RGB)",0.007934831,26,0.531791043576923,3.48412163326923
+"153","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_C.tif (RGB)",0.004620328,24,0.634245519625,3.190002528125
+"154","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_D.tif (RGB)",0.005267111,19,0.591437749263158,3.54036878057895
+"155","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_E.tif (RGB)",0.006296414,15,0.5322521808,3.61313246173333
+"156","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_F.tif (RGB)",0.004219997,17,0.518404636529412,3.61929632388235
+"157","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_G.tif (RGB)",0.005039644,20,0.56671618415,3.7132839849
+"158","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_H.tif (RGB)",0.005702484,19,0.583246696736842,3.37731386884211
+"159","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_I.tif (RGB)",0.004160719,28,0.656918842357143,2.88531001821429
+"160","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Hex_J.tif (RGB)",0.00611362,19,0.524808346,4.02996625957895
+"161","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_A.tif (RGB)",0.009724504,26,0.572878076346154,2.94210295915385
+"162","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_B.tif (RGB)",0.005993611,22,0.523828312,3.93613791590909
+"163","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_C.tif (RGB)",0.005576341,18,0.589757243388889,2.98063037977778
+"164","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_D.tif (RGB)",0.007922569,26,0.532206512961538,3.63342289419231
+"165","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_E.tif (RGB)",0.009344614,24,0.605670216041667,2.64588261233333
+"166","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_F.tif (RGB)",0.00812726,24,0.559630452125,3.30917156254167
+"167","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_G.tif (RGB)",0.007946219,28,0.565590079142857,3.45915111114286
+"168","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_H.tif (RGB)",0.007157234,30,0.581589899733333,3.28017863543333
+"169","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_I.tif (RGB)",0.008242017,22,0.582457199909091,3.24468340836364
+"170","./datasets/Image Analysis output/Results_Hex and Wat.csv","1st_Wat_J.tif (RGB)",0.007982717,26,0.583098150269231,3.40924691384615
+"171","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_A.tif (RGB)",0.008775211,23,0.569945289869565,3.140725129
+"172","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_B.tif (RGB)",0.007237826,22,0.527242877045455,3.45185021522727
+"173","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_C.tif (RGB)",0.009095829,19,0.550605085631579,3.58673859347368
+"174","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_D.tif (RGB)",0.00752019,21,0.534213647714286,3.4461955892381
+"175","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_E.tif (RGB)",0.009365344,18,0.525412307388889,3.452310128
+"176","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_F.tif (RGB)",0.008078497,24,0.607852890458333,2.77821202975
+"177","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_G.tif (RGB)",0.007911472,14,0.488899950785714,3.43359751814286
+"178","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_H.tif (RGB)",0.009463163,25,0.54594571096,3.56738257952
+"179","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_I.tif (RGB)",0.004992049,17,0.558960454941177,3.49956229211765
+"180","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Hex_J.tif (RGB)",0.007920522,25,0.5793561242,3.17080882324
+"181","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_A.tif (RGB)",0.011161149,23,0.54642881173913,2.86741898004348
+"182","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_B.tif (RGB)",0.008189458,24,0.55369563525,3.35301674491667
+"183","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_C.tif (RGB)",0.007618888,22,0.584299582090909,3.27299541763636
+"184","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_D.tif (RGB)",0.008769368,24,0.557582778583333,3.36641538545833
+"185","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_E.tif (RGB)",0.008816381,22,0.571627854863636,2.79939991672727
+"186","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_F.tif (RGB)",0.008651693,23,0.576418541347826,3.08950187626087
+"187","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_G.tif (RGB)",0.008979612,19,0.543255162052632,2.78261581078947
+"188","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_H.tif (RGB)",0.008564675,19,0.524896171842105,3.320210298
+"189","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_I.tif (RGB)",0.00957792,20,0.5167490842,3.4484438874
+"190","./datasets/Image Analysis output/Results_Hex and Wat.csv","2nd_Wat_J.tif (RGB)",0.008673593,21,0.535089822619048,3.40085552057143
+"191","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_A.tif (RGB)",0.009977378,20,0.545810354,3.25772112315
+"192","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_B.tif (RGB)",0.008232966,22,0.5066433105,4.20927885290909
+"193","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_C.tif (RGB)",0.008925591,18,0.543663168055556,3.62431740183333
+"194","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_D.tif (RGB)",0.007309366,21,0.568671466857143,3.2309082347619
+"195","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_E.tif (RGB)",0.010029645,22,0.516358956818182,3.30230941913636
+"196","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_F.tif (RGB)",0.008356481,23,0.517734570391304,4.01850499195652
+"197","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_G.tif (RGB)",0.008819592,16,0.5006968265625,3.833028949
+"198","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_H.tif (RGB)",0.009192187,25,0.59594890624,2.8956323888
+"199","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_I.tif (RGB)",0.006689739,24,0.556706902958333,3.05401729904167
+"200","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Hex_J.tif (RGB)",0.008982531,20,0.4889026025,3.69829750115
+"201","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_A.tif (RGB)",0.010484584,22,0.532528621727273,3.17707589313636
+"202","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_B.tif (RGB)",0.007503256,19,0.499977062842105,3.87734892021053
+"203","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_C.tif (RGB)",0.007001015,20,0.5654036022,3.3246446127
+"204","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_D.tif (RGB)",0.008613442,23,0.534778574956522,3.34910595904348
+"205","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_E.tif (RGB)",0.01002877,23,0.554949642434783,3.01734036443478
+"206","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_F.tif (RGB)",0.009578213,17,0.483019924352941,3.69281464558824
+"207","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_G.tif (RGB)",0.009660851,21,0.556605968904762,3.14989643747619
+"208","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_H.tif (RGB)",0.009736183,22,0.530391941227273,2.97668092081818
+"209","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_I.tif (RGB)",0.010272006,19,0.469377838789474,3.750204255
+"210","./datasets/Image Analysis output/Results_Hex and Wat.csv","3rd_Wat_J.tif (RGB)",0.008669799,22,0.536922748818182,3.0313267565
+"211","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_A.tif (RGB)",0.009515433,23,0.545156168608696,3.20051170430435
+"212","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_B.tif (RGB)",0.007595526,23,0.503321026956522,4.03200960656522
+"213","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_C.tif (RGB)",0.008944862,21,0.560368538190476,3.84969625157143
+"214","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_D.tif (RGB)",0.007196655,18,0.500229758888889,3.48937254261111
+"215","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_E.tif (RGB)",0.010109655,20,0.56298291945,2.9955394306
+"216","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_F.tif (RGB)",0.008958002,18,0.494389263777778,4.11632203588889
+"217","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_G.tif (RGB)",0.008866313,20,0.52089036625,3.92834117065
+"218","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_H.tif (RGB)",0.008954498,24,0.599882143958333,3.025110616875
+"219","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_I.tif (RGB)",0.006354814,25,0.58948509668,3.23294707724
+"220","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Hex_J.tif (RGB)",0.008621618,14,0.441936541642857,4.49310840478571
+"221","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_A.tif (RGB)",0.010434944,25,0.5659067844,2.99127666208
+"222","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_B.tif (RGB)",0.008680895,29,0.625336576034483,2.77573316548276
+"223","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_C.tif (RGB)",0.007098249,24,0.553536268625,3.66397250608333
+"224","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_D.tif (RGB)",0.008664539,23,0.569550058130435,3.05562989243478
+"225","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_E.tif (RGB)",0.00906896,21,0.553894008238095,3.05114070971429
+"226","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_F.tif (RGB)",0.00790709,20,0.47115633315,3.816481977
+"227","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_G.tif (RGB)",0.009739692,24,0.528822654208333,3.414954633625
+"228","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_H.tif (RGB)",0.007802847,21,0.553286258476191,3.14494173471429
+"229","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_I.tif (RGB)",0.009755752,22,0.542255272590909,3.38865833463636
+"230","./datasets/Image Analysis output/Results_Hex and Wat.csv","4th_Wat_J.tif (RGB)",0.009774438,21,0.519844202761905,3.73517827309524
+"231","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_A.tif (RGB)",0.008727321,20,0.5399202234,3.3965211595
+"232","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_B.tif (RGB)",0.008099521,17,0.441459482352941,4.38778452223529
+"233","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_C.tif (RGB)",0.009479516,15,0.486926183866667,3.6310602594
+"234","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_D.tif (RGB)",0.006091139,16,0.5390622839375,4.1119199339375
+"235","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_E.tif (RGB)",0.009174667,19,0.524835645578947,3.50268891768421
+"236","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_F.tif (RGB)",0.008477076,19,0.519152239789474,3.80966510878947
+"237","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_G.tif (RGB)",0.009648,15,0.461624588,3.87671602933333
+"238","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_H.tif (RGB)",0.009788743,21,0.532606039142857,3.23208836919048
+"239","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_I.tif (RGB)",0.005344201,18,0.572495898944444,3.25444382783333
+"240","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Hex_J.tif (RGB)",0.008308884,14,0.464245017357143,4.33444572878571
+"241","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_A.tif (RGB)",0.009610041,29,0.604869052862069,3.04835071093103
+"242","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_B.tif (RGB)",0.007153731,24,0.538372736666667,3.70465314633333
+"243","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_C.tif (RGB)",0.007879059,29,0.596475037517241,3.77669624996552
+"244","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_D.tif (RGB)",0.008239972,19,0.554347792947368,2.85585051947368
+"245","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_E.tif (RGB)",0.009687714,24,0.580159696166667,2.75585610379167
+"246","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_F.tif (RGB)",0.008458973,24,0.584135387875,3.11042055483333
+"247","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_G.tif (RGB)",0.01025945,26,0.557369071653846,3.49723467684615
+"248","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_H.tif (RGB)",0.008724693,24,0.533850208625,3.44743667529167
+"249","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_I.tif (RGB)",0.009749033,15,0.474385119933333,3.76096545293333
+"250","./datasets/Image Analysis output/Results_Hex and Wat.csv","5th_Wat_J.tif (RGB)",0.009587265,25,0.5630202738,3.02575680992
+"251","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_A.tif (RGB)",0.006141945,25,0.67970023792,2.09983522808
+"252","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_B.tif (RGB)",0.00747172,24,0.645292062875,2.556042257375
+"253","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_C.tif (RGB)",0.009115392,25,0.5670015798,2.99535951612
+"254","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_D.tif (RGB)",0.01112903,25,0.61178043848,2.70343849544
+"255","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_E.tif (RGB)",0.006300797,22,0.622787242863636,2.69799543640909
+"256","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_F.tif (RGB)",0.010660952,26,0.657881248538462,2.56341656942308
+"257","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_G.tif (RGB)",0.006702297,21,0.608533649666667,2.99671531980952
+"258","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_H.tif (RGB)",0.010645765,28,0.588192834714286,3.22979111689286
+"259","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_I.tif (RGB)",0.00807762,25,0.59832810664,3.11097268928
+"260","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_HNO3_J.tif (RGB)",0.007438431,25,0.6380465754,2.8505222278
+"261","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_A.tif (RGB)",0.009420822,27,0.571923360185185,3.13334330451852
+"262","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_B.tif (RGB)",0.007813068,30,0.6250316423,2.6470351546
+"263","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_C.tif (RGB)",0.006740839,33,0.566176135333333,3.63706170075758
+"264","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_D.tif (RGB)",0.008444956,28,0.624649850535714,2.6373870995
+"265","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_E.tif (RGB)",0.007075764,23,0.621388481086957,2.81034642208696
+"266","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_F.tif (RGB)",0.007654219,23,0.567509143608696,3.28625311543478
+"267","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_G.tif (RGB)",0.006541111,26,0.582199596576923,2.80805382619231
+"268","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_H.tif (RGB)",0.008638261,27,0.567012846962963,2.95390372125926
+"269","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_I.tif (RGB)",0.006035657,22,0.587150808318182,2.95244256877273
+"270","./datasets/Image Analysis output/Results_HNO3andKOH.csv","1st_KOH_J.tif (RGB)",0.008849961,28,0.684422465857143,2.1291331475
+"271","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_A.tif (RGB)",0.008523217,25,0.5996556352,2.65420228516
+"272","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_B.tif (RGB)",0.010996753,24,0.612282832416667,2.885008674125
+"273","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_C.tif (RGB)",0.01139942,28,0.607259319928571,2.88251254907143
+"274","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_D.tif (RGB)",0.012033648,20,0.55675072315,2.6731265346
+"275","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_E.tif (RGB)",0.008746011,25,0.63563804192,2.5537501408
+"276","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_F.tif (RGB)",0.012566259,25,0.62220386772,2.62408840876
+"277","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_G.tif (RGB)",0.012236882,25,0.61789680428,2.22390642812
+"278","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_H.tif (RGB)",0.013186177,26,0.586798436192308,2.99505668361538
+"279","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_I.tif (RGB)",0.010245146,22,0.595941607772727,2.67288460659091
+"280","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_HNO3_J.tif (RGB)",0.010626205,27,0.611737918925926,2.632140285
+"281","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_A.tif (RGB)",0.010829435,29,0.555840856172414,3.09533904565517
+"282","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_B.tif (RGB)",0.007965492,23,0.593968441304348,3.04072668495652
+"283","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_C.tif (RGB)",0.008455175,40,0.622849851025,3.28274124765
+"284","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_D.tif (RGB)",0.009212625,27,0.608613524333333,2.79578851396296
+"285","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_E.tif (RGB)",0.007805181,24,0.534268700208333,3.33352644904167
+"286","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_F.tif (RGB)",0.00749391,25,0.61498010724,2.83803856388
+"287","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_G.tif (RGB)",0.008871278,28,0.649642859821429,2.10367803471429
+"288","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_H.tif (RGB)",0.010376542,25,0.56242214132,2.8199398224
+"289","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_I.tif (RGB)",0.007966661,26,0.640445093461538,2.61181942388462
+"290","./datasets/Image Analysis output/Results_HNO3andKOH.csv","2nd_KOH_J.tif (RGB)",0.011274737,29,0.621336830068966,2.63367480024138
+"291","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_A.tif (RGB)",0.008642935,26,0.556199626615385,3.00110971346154
+"292","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_B.tif (RGB)",0.011035882,28,0.596838562714286,2.94475583432143
+"293","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_C.tif (RGB)",0.011263641,27,0.588475664481481,3.01613557188889
+"294","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_D.tif (RGB)",0.012532968,23,0.569311514782609,2.74281932191304
+"295","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_E.tif (RGB)",0.009971247,22,0.589187699409091,2.76688910513636
+"296","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_F.tif (RGB)",0.013163982,25,0.60024369264,2.81914066956
+"297","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_G.tif (RGB)",0.012185199,27,0.615312069962963,2.45942831662963
+"298","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_H.tif (RGB)",0.013712361,24,0.561095444458333,3.054210658125
+"299","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_I.tif (RGB)",0.010839947,24,0.549728418583333,3.000467211625
+"300","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_HNO3_J.tif (RGB)",0.01075264,25,0.58041044684,2.877487563
+"301","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_A.tif (RGB)",0.011684997,28,0.570412438464286,3.11715207696429
+"302","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_B.tif (RGB)",0.009435715,28,0.656886438821429,2.41665988082143
+"303","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_C.tif (RGB)",0.008428021,31,0.561032058903226,3.66384152609677
+"304","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_D.tif (RGB)",0.009256427,26,0.602746310769231,2.74967118876923
+"305","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_E.tif (RGB)",0.009090278,24,0.586853286041667,2.82117979970833
+"306","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_F.tif (RGB)",0.009108091,25,0.61351450444,2.62977262672
+"307","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_G.tif (RGB)",0.011025368,37,0.631929156891892,2.35506873386487
+"308","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_H.tif (RGB)",0.00974553,28,0.5508673885,3.25108973685714
+"309","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_I.tif (RGB)",0.009135831,25,0.60299717868,2.73539852872
+"310","./datasets/Image Analysis output/Results_HNO3andKOH.csv","3rd_KOH_J#.tif (RGB)",0.012552826,26,0.589398799384615,2.71143860992308
+"311","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_A.tif (RGB)",0.009382573,24,0.594883963083333,2.462604169875
+"312","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_B.tif (RGB)",0.011506295,23,0.588733675043478,2.67039148995652
+"313","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_C.tif (RGB)",0.010721396,27,0.593965279851852,2.83235539377778
+"314","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_D.tif (RGB)",0.01307901,26,0.575991341461538,2.83297719657692
+"315","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_E.tif (RGB)",0.010328948,26,0.618033680538462,2.57858803819231
+"316","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_F.tif (RGB)",0.013425908,25,0.61913179124,2.6590648028
+"317","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_G.tif (RGB)",0.012942356,30,0.648046932133333,2.35695909073333
+"318","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_H.tif (RGB)",0.014715387,23,0.540701960434783,2.95224792495652
+"319","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_I.tif (RGB)",0.011421612,23,0.564457087782609,3.00087120917391
+"320","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_HNO3_J.tif (RGB)",0.011238238,27,0.603962127592593,2.640561803
+"321","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_A.tif (RGB)",0.011812602,27,0.555375429037037,3.19479362396296
+"322","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_B.tif (RGB)",0.010227914,23,0.57213586473913,2.78916152165217
+"323","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_C.tif (RGB)",0.00841313,39,0.608203776820513,3.27210298538462
+"324","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_D.tif (RGB)",0.010230541,26,0.628064510269231,2.47157313292308
+"325","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_E.tif (RGB)",0.009665227,24,0.567599796041667,2.99462697620833
+"326","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_F.tif (RGB)",0.009344028,25,0.594541615,2.8385271096
+"327","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_G.tif (RGB)",0.011002594,29,0.645179956758621,2.45340902193103
+"328","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_H.tif (RGB)",0.010890466,26,0.533633646192308,2.829104934
+"329","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_I.tif (RGB)",0.009540253,25,0.6079961118,2.8679319396
+"330","./datasets/Image Analysis output/Results_HNO3andKOH.csv","4th_KOH_J.tif (RGB)",0.012720141,30,0.621389429266667,2.47626134623333
+"331","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_A.tif (RGB)",0.009312783,27,0.595112405037037,2.78146617725926
+"332","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_B.tif (RGB)",0.01248333,26,0.584984897230769,3.23266722153846
+"333","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_C.tif (RGB)",0.012674005,25,0.57128385188,2.85345371488
+"334","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_D.tif (RGB)",0.014218983,26,0.577557649,2.75465279623077
+"335","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_E.tif (RGB)",0.010719059,24,0.628933544666667,2.51741145329167
+"336","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_F.tif (RGB)",0.012660863,23,0.621694046434783,2.64691535830435
+"337","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_G.tif (RGB)",0.013123688,24,0.603220404375,2.28985986
+"338","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_H.tif (RGB)",0.014315052,25,0.56204994428,3.16431486776
+"339","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_I.tif (RGB)",0.01123386,23,0.575797866913043,2.83886705356522
+"340","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_HNO3_J.tif (RGB)",0.01172763,25,0.5916857612,2.63004327212
+"341","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_A.tif (RGB)",0.012875195,26,0.542943258538462,3.04239082423077
+"342","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_B.tif (RGB)",0.009794292,25,0.61994486204,2.51190368756
+"343","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_C.tif (RGB)",0.010022054,33,0.592359207666667,3.32295929245455
+"344","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_D.tif (RGB)",0.0105132,26,0.599196473269231,2.55870750953846
+"345","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_E.tif (RGB)",0.009823201,25,0.5975817346,2.78925391424
+"346","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_F.tif (RGB)",0.009664061,25,0.58984597416,2.88641340776
+"347","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_G.tif (RGB)",0.011071213,29,0.604372596068966,2.680209655
+"348","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_H.tif (RGB)",0.010929302,31,0.610876042096774,3.06783390377419
+"349","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_I.tif (RGB)",0.008884417,26,0.585996766769231,2.91303748684615
+"350","./datasets/Image Analysis output/Results_HNO3andKOH.csv","5th_KOH_J.tif (RGB)",0.013380356,28,0.621080146285714,2.52198789110714
+"351","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_A.tif",0.00609143,24,0.641156753458333,2.84937238466667
+"352","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_B.tif",0.0082864,26,0.630877163153846,2.55072823865385
+"353","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_C.tif",0.006431317,21,0.681868468047619,2.38917240371429
+"354","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_D.tif",0.006042081,20,0.6392212693,2.83237133205
+"355","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_E.tif",0.0038366,17,0.649154880176471,2.80050306523529
+"356","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_F.tif",0.00705299,19,0.641422464157895,2.40765034026316
+"357","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_G.tif",0.004126264,22,0.600050591,2.89878242859091
+"358","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_H.tif",0.005082566,15,0.621060628466667,2.44300268073333
+"359","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_I.tif",0.006153918,20,0.56016630295,3.1603541156
+"360","./datasets/Image Analysis output/Results_H2O2.csv","1st_33pc_J.tif",0.006120046,17,0.618056770705882,3.26076934611765
+"361","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_A.tif",0.005453408,21,0.612279424095238,2.87037913580952
+"362","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_B.tif",0.005742487,22,0.632463866681818,2.77191223240909
+"363","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_C.tif",0.005881479,26,0.594162239192308,3.41955761569231
+"364","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_D.tif",0.008327864,23,0.621906327869565,2.91206717782609
+"365","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_E.tif",0.010484,31,0.641768741419355,3.14995753341936
+"366","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_F.tif",0.006586664,18,0.608399894888889,2.76746137133333
+"367","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_G.tif",0.007370102,21,0.655060092571429,2.36454796290476
+"368","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_H.tif",0.01031055,23,0.575213592173913,3.40451914726087
+"369","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_I.tif",0.008198509,22,0.500505257045455,3.82363106227273
+"370","./datasets/Image Analysis output/Results_H2O2.csv","1st_8pc_J.tif",0.007168624,20,0.6394707303,2.9448408802
+"371","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_A.tif",0.009975922,24,0.584929656375,3.173264100375
+"372","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_B.tif",0.009481267,29,0.593201390448276,2.90213784751724
+"373","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_C.tif",0.008234132,27,0.635856899222222,2.60391815185185
+"374","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_D.tif",0.009693261,29,0.639420465551724,2.71117941286207
+"375","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_E.tif",0.006167935,21,0.595083147428571,3.05997668228571
+"376","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_F.tif",0.010673507,24,0.617137518583333,2.65478706870833
+"377","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_G.tif",0.008651693,22,0.628967142409091,2.77371240804545
+"378","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_H.tif",0.00765042,17,0.579255386294118,2.91198964323529
+"379","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_I.tif",0.007577129,23,0.602218038869565,3.31429774391304
+"380","./datasets/Image Analysis output/Results_H2O2.csv","2nd_33pc_J.tif",0.007499166,20,0.54215392975,3.62858194725
+"381","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_A.tif",0.007897746,20,0.5221625245,3.7442718297
+"382","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_B.tif",0.008999172,27,0.622341653925926,2.72035201555556
+"383","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_C.tif",0.009403304,24,0.616532661083333,3.055294239875
+"384","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_D.tif",0.010576272,25,0.62406842468,2.58197979452
+"385","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_E.tif",0.011258679,24,0.611479549666667,2.898384938875
+"386","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_F.tif",0.009074512,22,0.605449552136364,2.93583155809091
+"387","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_G.tif",0.010239304,25,0.6060105794,2.40523950992
+"388","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_H.tif",0.010215064,21,0.579440760380952,3.34810857214286
+"389","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_I.tif",0.009654425,22,0.577624446090909,3.03569034981818
+"390","./datasets/Image Analysis output/Results_H2O2.csv","2nd_8pc_J.tif",0.007034593,22,0.683633468727273,2.25151893322727
+"391","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_A.tif",0.010783592,24,0.575969147416667,3.054726316875
+"392","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_B.tif",0.009781446,27,0.584553032259259,3.19481424977778
+"393","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_C.tif",0.008325526,25,0.5943204194,2.90245098196
+"394","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_D.tif",0.009878386,30,0.676454685,2.5231798442
+"395","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_E.tif",0.00834743,21,0.52759073152381,3.50931296457143
+"396","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_F.tif",0.011375186,21,0.610511521666667,2.71767346533333
+"397","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_G.tif",0.010239306,31,0.694061874870968,2.62281682993548
+"398","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_H.tif",0.009451775,19,0.623663148052632,2.67517312294737
+"399","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_I.tif",0.008895514,24,0.586284913833333,3.59622579329167
+"400","./datasets/Image Analysis output/Results_H2O2.csv","3rd_33pc_J.tif",0.008819888,24,0.628187176916667,3.065126489625
+"401","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_A.tif",0.009455864,25,0.55511411436,3.04862968324
+"402","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_B.tif",0.009323584,26,0.643423595653846,2.79657511780769
+"403","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_C.tif",0.010195501,29,0.627867800206897,3.42395985027586
+"404","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_D.tif",0.011142753,28,0.639590987928571,2.57841388935714
+"405","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_E.tif",0.011956265,28,0.6102838565,3.18102049467857
+"406","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_F.tif",0.009183722,21,0.590812821714286,2.61526833447619
+"407","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_G.tif",0.009064877,26,0.609656063038462,2.46675317057692
+"408","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_H.tif",0.011376062,27,0.571055787296296,3.66338517788889
+"409","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_I.tif",0.010071986,22,0.565796821409091,3.217148912
+"410","./datasets/Image Analysis output/Results_H2O2.csv","3rd_8pc_J.tif",0.009412648,23,0.625606128217391,3.23216675934783
+"411","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_A.tif",0.009624058,24,0.600401012416667,3.16574160095833
+"412","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_B.tif",0.009866419,25,0.5721844822,3.02043840508
+"413","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_C.tif",0.008511239,29,0.566358819517241,3.241561486
+"414","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_D.tif",0.009406807,23,0.594370445826087,2.872142065
+"415","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_E.tif",0.007158106,29,0.608193579034483,2.95015901506897
+"416","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_F.tif",0.009987889,19,0.590957510052632,2.85974672457895
+"417","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_G.tif",0.009345489,25,0.65166876536,2.65400335056
+"418","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_H.tif",0.009854448,21,0.590809183571429,3.07764399190476
+"419","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_I.tif",0.010151117,27,0.554303211814815,3.847408106
+"420","./datasets/Image Analysis output/Results_H2O2.csv","4th_33pc_J.tif",0.009733849,23,0.584372759521739,3.19161295678261
+"421","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_A.tif",0.008311513,31,0.546683522645161,3.42321702887097
+"422","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_B.tif",0.010147613,25,0.62355521144,2.44053252588
+"423","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_C.tif",0.009343151,24,0.564391341375,3.68525201095833
+"424","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_D.tif",0.01046064,28,0.620011479678571,2.72428039921429
+"425","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_E.tif",0.011909256,23,0.587257875217391,2.55081935547826
+"426","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_F.tif",0.008554166,20,0.55600140075,2.940183777
+"427","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_G.tif",0.008876826,24,0.604009418541667,2.605566515
+"428","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_H.tif",0.011009018,26,0.600047348230769,3.39419459861538
+"429","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_I.tif",0.010060307,23,0.56470905973913,3.36562267347826
+"430","./datasets/Image Analysis output/Results_H2O2.csv","4th_8pc_J.tif",0.009452653,21,0.610698473380952,2.37774940814286
+"431","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_A.tif",0.010631168,27,0.559215195740741,3.29120784155556
+"432","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_B.tif",0.009569747,32,0.6397394893125,2.8294998466875
+"433","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_C.tif",0.008922086,29,0.596089773793103,3.05873588844828
+"434","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_D.tif",0.010420343,22,0.586006311227273,2.54883065318182
+"435","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_E.tif",0.009189269,29,0.568287764,3.09750925644828
+"436","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_F.tif",0.010142359,22,0.616108454363636,2.57347080381818
+"437","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_G.tif",0.009180799,26,0.638409537923077,2.55689350842308
+"438","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_H.tif",0.010403408,20,0.59930785445,2.72971180415
+"439","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_I.tif",0.007931912,26,0.607446475153846,3.74476221546154
+"440","./datasets/Image Analysis output/Results_H2O2.csv","5th_33pc_J.tif",0.009751369,20,0.56573724085,2.99292887025
+"441","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_A.tif",0.009058742,29,0.604794462689655,3.1836375167931
+"442","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_B.tif",0.009385784,28,0.658750495607143,2.43356197407143
+"443","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_C.tif",0.009337311,30,0.603981542166667,3.33397884566667
+"444","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_D.tif",0.011229771,27,0.611018280296296,2.84272408014815
+"445","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_E.tif",0.010299749,28,0.645467953464286,2.66405352482143
+"446","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_F.tif",0.010020888,24,0.607449401833333,2.73635703570833
+"447","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_G.tif",0.009760716,26,0.621215842076923,2.67589201753846
+"448","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_H.tif",0.010279305,26,0.579224881807692,3.44207138488462
+"449","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_I.tif",0.00887157,22,0.5875639195,3.14441279072727
+"450","./datasets/Image Analysis output/Results_H2O2.csv","5th_8pc_J.tif",0.008859016,27,0.635404813814815,2.88469592196296

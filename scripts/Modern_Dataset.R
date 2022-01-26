@@ -3,7 +3,7 @@ library(tidyverse)
 library(fs)
 library(plyr)
 
-file_paths <- dir_ls("./datasets")
+file_paths <- dir_ls("./datasets/Image Analysis output")
 chemicals <- list()
 
 for(i in seq_along(file_paths)){
@@ -25,9 +25,6 @@ producing.metrics <- function(x){
 
 results <- lapply(chemicals, producing.metrics)
 df_results <- ldply(results, data.frame)
-
-
-
 
 #Writing the results
 write.csv(df_results, file = "Modern_Dataset.csv")

@@ -1,4 +1,18 @@
-setwd("G:/My Drive/3. Paper no. 2 - Chemicals__send2LC/3. Fresh Charcoal Experiment/3. Figures/new_hypervisualized/Rwork")
+library(stringr)
+
+str(df_results)
+df_results %>% mutate(Label_Timestep = Label, Label_Treatment = Label)
+
+
+str_sub(df_results$Label_Timestep, 1)
+
+
+
+
+
+
+
+
 data <- read.csv(file= "data.csv", header=TRUE, sep = ",")
 Treatment <- data$Treatment
 l<-split(data, Treatment)
