@@ -1,19 +1,19 @@
-library(stringr)
 
-str(df_results)
-df_results %>% mutate(Label_Timestep = Label, Label_Treatment = Label)
+#If I am keeping on the 'df' need to find how to normalize
 
-
-str_sub(df_results$Label_Timestep, 1)
+str(df)
+df
 
 
+df %>% 
+  group_by(treatment, timestep) %>% 
+  summarise(mean = mean(area), n=n()) %>% 
+  group_vars()
 
+summarize(df, )
+mean(df$area)
 
-
-
-
-
-data <- read.csv(file= "data.csv", header=TRUE, sep = ",")
+data <- read.csv(file= "./datasets/data.csv", header=TRUE, sep = ",")
 Treatment <- data$Treatment
 l<-split(data, Treatment)
 
