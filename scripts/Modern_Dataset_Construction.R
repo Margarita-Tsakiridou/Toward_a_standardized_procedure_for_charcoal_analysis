@@ -1,9 +1,9 @@
-#Dataset construction
+#Modern dataset construction
 
 library(tidyverse)
 library(fs)
 library(stringr)
-library(magrittr)
+library(plyr)
 
 file_paths <- dir_ls("./datasets/Image Analysis output")
 chemicals <- list()
@@ -16,16 +16,15 @@ chemicals <- setNames(chemicals, file_paths)
 
 
 producing.metrics <- function(x){
-  Area <- x %>% group_by (Label) %>% summarize(area = sum(Area)) 
-  Numbers <-x %>% group_by (Label) %>% summarize(number =n())
-  Circularity <- x %>% group_by (Label) %>%  summarize(circ = mean(Circ.))
-  AR <- x %>% group_by (Label) %>%  summarize(AR = mean(AR))
+  Area <- x %>% group_by (Label) %>% dplyr::summarize(area = sum(Area)) 
+  Numbers <-x %>% group_by (Label) %>% dplyr::summarize(number =n())
+  Circularity <- x %>% group_by (Label) %>%  dplyr::summarize(circ = mean(Circ.))
+  AR <- x %>% group_by (Label) %>%  dplyr::summarize(AR = mean(AR))
   results <- cbind(Area,Numbers[,2], Circularity[2], AR[2])
 }
 
 
 results <- lapply(chemicals, producing.metrics)
-library(plyr) #this needs to run after line 28 (need to fix this if I source this script)
 df <- ldply(results, data.frame)
 
 df$Label <- as.character(df$Label)
