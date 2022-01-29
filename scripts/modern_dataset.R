@@ -5,7 +5,7 @@ library(fs)
 library(stringr)
 library(plyr)
 
-file_paths <- dir_ls("./datasets/Image Analysis output")
+file_paths <- dir_ls("./datasets/Image Analysis output modern")
 chemicals <- list()
 
 for(i in seq_along(file_paths)){

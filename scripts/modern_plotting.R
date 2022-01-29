@@ -26,8 +26,8 @@ m <- split(l, l[8] )#'
            
 stdf <- read.csv("./datasets/standardization/data.csv") %>% pivot_longer(cols=4:8, names_to="timestep", values_to="area")
   
-ggplot(stdf1, aes(x=area, y=timestep))+
-  geom_boxplot() + coord_flip() + facet_wrap(stdf1$Treatment)
+modernplot <- ggplot(stdf, aes(x=area, y=timestep))+
+  geom_boxplot() + coord_flip() + facet_wrap(stdf$Treatment)
 
 #split them in 6h vs 12h
 #arrange them in the facets better

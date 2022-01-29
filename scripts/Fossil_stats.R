@@ -8,7 +8,7 @@ library(car)
 
 setwd("G:\\My Drive\\3. Paper no. 2 - Chemicals\\4. Sluggan Bog\\2. Data Analysis\\2. Statistical Analysis\\2. GLMM")
 data <- read.csv("SB_data.csv", header = TRUE, sep = ",") ##reading the data
-str(data) ##will need to make the previous code produce this data
+#str(data) ##will need to make the previous code produce this data
 
 
 producingGLMM <- function(x){
@@ -21,7 +21,11 @@ producingGLMM <- function(x){
   print(significance)
 }
 
-producingGLMM(data$Area)
-producingGLMM(data$Numbers)
+area.s <- producingGLMM(data$Area)
+numbers.s <- producingGLMM(data$Numbers)
 producingGLMM(data$Circ) #this has normal distribution
 producingGLMM(data$AR) #also normal distribution
+
+treatment.significane <- list(area.s, numbers.s)
+
+rm(data, producingGLMM, area.s, numbers.s)
