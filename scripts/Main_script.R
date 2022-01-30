@@ -32,3 +32,10 @@ source("./scripts/fossil_dataset.R")
 source("./script/fossil_stats.R")
 
 
+'##Still to fix
+1.Modern dataset - have forgotten the replicate column - needs to look like the other ds
+2.Df_st - make this come straight from df + fix boxplots to look more pretty
+3.df_fossil - make it look like the other ID, treatment, depth, etc.
+4.Significance - make it come out as a list 
+Turn to RMarkDown for viva
+
