@@ -29,7 +29,7 @@ source("./scripts/fossil_dataset.R")
 
 '#Finally, the code tests the significance of the effect of different treatments on the fossil sequences.'
 
-source("./script/fossil_stats.R")
+source("./scripts/fossil_stats.R")
 
 
 '##Still to fix
