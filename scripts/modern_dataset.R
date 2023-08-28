@@ -1,10 +1,14 @@
-#Modern dataset construction
+# Modern Data Set
+# The script below takes the image analysis output 
+# turns it into a long properly formatted data frame,
+# standardizes it and plots is
 
 library(tidyverse)
 
-##creating the dataframe
 
-#1. bringing in each file output
+##############################################################
+##            bringing in the data needed                  ##
+#############################################################
 
 file_paths <- fs::dir_ls("./datasets/Image Analysis output modern")
 
@@ -15,31 +19,51 @@ for(i in seq_along(file_paths)){
   chemicals[[i]]<-read.csv(file = file_paths[[i]]
   )
 }
+
 chemicals <- setNames(chemicals, file_paths)
 
 
 producing.metrics <- function(x){
-  Area <- x %>% group_by (Label) %>% dplyr::summarize(area = sum(Area)) 
-  Numbers <-x %>% group_by (Label) %>% dplyr::summarize(number =n())
-  Circularity <- x %>% group_by (Label) %>%  dplyr::summarize(circ = mean(Circ.))
-  AR <- x %>% group_by (Label) %>%  dplyr::summarize(AR = mean(AR))
-  results <- cbind(Area,Numbers[,2], Circularity[2], AR[2])
+  
+  area <- x %>% 
+    group_by (Label) %>% 
+    dplyr::summarize(area = sum(Area)) 
+  
+  numbers <-x %>% 
+    group_by (Label) %>% 
+    dplyr::summarize(number =n())
+  
+  circularity <- x %>% 
+    group_by (Label) %>%
+    dplyr::summarize(circ = mean(Circ.))
+  
+  AR <- x %>% 
+    group_by (Label) %>%  
+    dplyr::summarize(AR = mean(AR))
+  
+  results <- cbind(area, numbers[,2], circularity[2], AR[2])
 }
 
 results <- lapply(chemicals, producing.metrics)
 
 
-##2. turing it into dataframe and fixing it
+##############################################################
+##        creating and formatting the data frame           ##
+#############################################################
+
 
 df <- plyr::ldply(results, data.frame)
-df$Label <- as.character(df$Label)
+
 df$Label <- str_replace_all(df$Label, " \\(RGB\\)", "")
+
 df <- df %>% mutate(timestep = Label,
                     treatment = Label, 
                     replicate = Label)
 
 df$timestep <- substr(df$timestep, 0,1)
+
 df$treatment <- gsub("^(?:[^_]+_){1}([^_]+).*", "\\1", df$treatment)
+
 df$replicate <-  str_sub(df$Label, -5, -5)
 
 
@@ -80,28 +104,103 @@ factor_vars <- c('treatment',
 
 df[factor_vars] <- lapply(df[factor_vars], function(x) as.factor(x))
 
-#3. tidying and exporting 
+raw_df <- df
 
-#Writing the results
-#write.csv(df, file = "Modern_Dataset.csv")
-
-rm(chemicals, results, factor_vars, file_paths, i, producing.metrics)
-
-
-#4. Standatdizing it
-
-df1 <- df %>% select(1:4)
+rm(df,
+   chemicals,
+   results,
+   factor_vars,
+   file_paths,
+   i,
+   producing.metrics)
 
 
-test <- df1 %>% filter(treatment == "H2O 12h") %>% 
-  pivot_wider(names_from = timestep, values_from = area)
+##############################################################
+##                      Standardizing                      ##
+#############################################################
 
+raw_list <- split(raw_df, raw_df$treatment)
 
-
-standardize <- function(x){
-  z <- (x-mean(x)) / sd(x)
-  return(z)
+scaling <- function(df){
+  
+  df <- df %>% 
+    dplyr::select(treatment,
+                      timestep,
+                      replicate,
+                      area) %>% 
+    pivot_wider(id_cols = c(treatment, replicate),
+                names_from = timestep,
+                values_from = area)
+  
+  T0_mean <- mean(df$T0)
+  T0_var <- var(df$T0)
+  
+  df <- df %>% 
+    mutate(across(3:7, 
+                  ~ (. - T0_mean) / sqrt(T0_var)))
+  
+  return(df)
 }
 
-test[3:6] <-
-  apply(test[3:6], 2, standardize)
+
+st_list <- lapply(raw_list, scaling) 
+
+st_df <- bind_rows(st_list) %>% 
+  pivot_longer(3:7,
+               names_to = "timestep",
+               values_to = "area")
+
+rm(raw_list, scaling, st_list)
+
+
+
+##############################################################
+##                 tidying and exporting                   ##
+#############################################################
+
+
+mainDir <- "./"
+subDir <- "output"
+
+
+if (file.exists(subDir)){
+    print("The file exists")
+} else {
+    dir.create(file.path(mainDir, subDir))
+    
+}
+
+
+datasets_list <- list(raw_data = raw_df,
+                      standardized_data = st_df) 
+
+writexl::write_xlsx(datasets_list,
+                    "./output/charcoal_experiment.xlsx")
+
+
+rm(mainDir, subDir, datasets_list)
+
+
+##############################################################
+##                        Plotting                         ##
+#############################################################
+
+st_df$treatment <- factor(st_df$treatment , levels = c("Na6PO18 10%",
+                            "KOH 10%",
+                            "HNO3 50%",
+                            "H2O2 33%",
+                            "H2O2 8%",
+                            "H2O 12h",
+                            "NaClO 12.5%",
+                            "NaClO 2.5%",
+                            "H2O 6h"))
+
+modernplot <- ggplot(st_df, aes(x=area, y=timestep)) +
+  geom_boxplot() + 
+  coord_flip() + 
+  facet_wrap(st_df$treatment) + 
+  xlim(-3,5)
+
+modernplot
+
+

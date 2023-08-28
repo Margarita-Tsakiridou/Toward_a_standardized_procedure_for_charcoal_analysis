@@ -24,7 +24,7 @@ l <- split(df1, df1$tt)
 m <- split(l, l[8] )#'
 
            
-stdf <- read.csv("./datasets/standardization/data.csv") %>% pivot_longer(cols=4:8, names_to="timestep", values_to="area")
+stdf.read <- read.csv("./datasets/standardization/data.csv") %>% pivot_longer(cols=4:8, names_to="timestep", values_to="area")
   
 modernplot <- ggplot(stdf, aes(x=area, y=timestep))+
   geom_boxplot() + coord_flip() + facet_wrap(stdf$Treatment)
