@@ -74,3 +74,9 @@ df_slug1 <- df_slug %>%
   separate(.id, into = c("sequence", "levels"), sep = "_")
 
 df_slug1$levels <- gsub(".csv", "", df_slug1$levels)
+
+df_slug2 <- df_slug1 %>%
+  separate(levels, into = c("top", "bottom", sep = "-"))
+
+
+

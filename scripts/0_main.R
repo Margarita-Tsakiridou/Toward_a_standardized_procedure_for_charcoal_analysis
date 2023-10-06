@@ -7,6 +7,7 @@ install.packages(c("tidyverse",
                  "lme4",
                  "car"))
 
+library(tidyverse)
 
 # Part 1 - Modern Charcoal
 
@@ -15,5 +16,5 @@ source("./scripts/2_modern_dataset_statistics.R")
 
 # Part 2 - Fossil Charcoal
 
-source("./scripts/fossil_dataset.R")
-source("./scripts/fossil_stats.R")
+source("./scripts/3_fossil_dataset.R")
+source("./scripts/4_fossil_stats.R")
