@@ -68,8 +68,8 @@ df$replicate <-  str_sub(df$Label, -5, -5)
 
 
   df$treatment = case_when(
-    df$treatment == "15pc" ~ "NaClO 12.5%",
-    df$treatment == "2pc" ~ "NaClO 2.5%",
+    df$treatment == "12.5pc" ~ "NaClO 12.5%",
+    df$treatment == "2.5pc" ~ "NaClO 2.5%",
     df$treatment == "8pc" ~ "H2O2 8%",
     df$treatment == "33pc" ~ "H2O2 33%",
     df$treatment == "Hex" ~ "Na6PO18 10%",
@@ -159,17 +159,9 @@ rm(raw_list, scaling, st_list)
 #############################################################
 
 
-mainDir <- "./"
-subDir <- "output"
-
-
-if (file.exists(subDir)){
-    print("The file exists")
-} else {
-    dir.create(file.path(mainDir, subDir))
-    
+if (!dir.exists("./output")){
+  dir.create("./output")
 }
-
 
 datasets_list <- list(raw_data = raw_df,
                       standardized_data = st_df) 
@@ -178,7 +170,7 @@ writexl::write_xlsx(datasets_list,
                     "./output/charcoal_experiment.xlsx")
 
 
-rm(mainDir, subDir, datasets_list)
+rm(datasets_list)
 
 
 ##############################################################
@@ -195,12 +187,14 @@ st_df$treatment <- factor(st_df$treatment , levels = c("Na6PO18 10%",
                             "NaClO 2.5%",
                             "H2O 6h"))
 
-modernplot <- ggplot(st_df, aes(x=area, y=timestep)) +
+modernplot_area <- ggplot(st_df, aes(x=area, y=timestep)) +
   geom_boxplot() + 
   coord_flip() + 
   facet_wrap(st_df$treatment) + 
-  xlim(-3,5)
+  xlim(-3,5) + theme_bw()
 
-modernplot
 
+if (!dir.exists('./figures')) {
+  dir.create('./figures')
+}
 
