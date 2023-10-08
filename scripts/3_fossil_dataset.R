@@ -63,20 +63,30 @@ rm(df,
 ##              formatting the data set                    ##
 #############################################################
 
+sluggan <- df_slug %>% 
+  mutate(pic_label = gsub( "./datasets/Image Analysis output fossil/",
+                           "",
+                           .id)) %>% 
+  separate(pic_label, into = c("sequence", "levels"), sep = "_") %>% 
+  mutate(treatment = case_when(
+    sequence %in% c("A", "H", "I") ~ "H2O2",
+    sequence %in% c("B", "G", "J") ~ "NaClO",
+    sequence %in% c("C", "F", "K") ~ "HNO3"
+  )
+  ) %>% 
+  rename(pic_label = .id) %>% 
+  select(pic_label,
+         sequence,
+         levels,
+         treatment,
+         area,
+         number,
+         circ,
+         AR)
 
-df_slug$.id <- gsub("./datasets/Image Analysis output fossil/",
-                    "", 
-                    df_slug$.id)
 
+sluggan$sequence <- as.factor(sluggan$sequence)
+sluggan$treatment <- as.factor(sluggan$treatment)
+sluggan$levels <- as.factor(sluggan$levels)
 
-df_slug1 <- df_slug %>% 
-  mutate(pic_label = .id) %>% 
-  separate(.id, into = c("sequence", "levels"), sep = "_")
-
-df_slug1$levels <- gsub(".csv", "", df_slug1$levels)
-
-df_slug2 <- df_slug1 %>%
-  separate(levels, into = c("top", "bottom", sep = "-"))
-
-
-
+rm(df_slug)

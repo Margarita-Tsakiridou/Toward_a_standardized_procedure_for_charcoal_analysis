@@ -116,4 +116,6 @@ statistical_results_modern <- lapply(data_list, analysing)
 #############################################################
 
 rm(data_list,
-   analysing)
+   analysing,
+   raw_df,
+   st_df)

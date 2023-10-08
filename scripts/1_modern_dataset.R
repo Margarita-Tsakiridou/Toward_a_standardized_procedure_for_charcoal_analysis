@@ -194,7 +194,3 @@ modernplot_area <- ggplot(st_df, aes(x=area, y=timestep)) +
   xlim(-3,5) + theme_bw()
 
 
-if (!dir.exists('./figures')) {
-  dir.create('./figures')
-}
-
